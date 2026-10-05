@@ -1,0 +1,14 @@
+description: Avaliação SynapseAI (RAG vs fine-tuning)
+prompts:
+  - "{{question}}"
+providers:
+  # Troque pelo SEU sistema. Exemplos:
+  #  - id: https://seu-rag.local/chat   # endpoint HTTP do RAG (config 'transformResponse' conforme sua API)
+  #  - id: openai:chat:ft:seu-modelo    # ou um servidor OpenAI-compatível (vLLM) via apiBaseUrl
+  - id: openai:chat:gpt-4.1-mini
+    label: sistema-sob-teste
+defaultTest:
+  options:
+    provider: openai:chat:gpt-4.1-mini   # modelo juiz (factuality / llm-rubric)
+tests: file://tests.yaml
+# Filtros úteis:  promptfoo eval --filter-metadata split=test --filter-metadata volatile=False
