@@ -1,0 +1,4476 @@
+[
+  {
+    "id": "01",
+    "arquivo": "01_ana_beatriz_lima.pdf",
+    "formato": "pdf",
+    "layout": "editorial",
+    "nome": "Ana Beatriz Ferreira Lima",
+    "titulo": "Cientista de Dados Sênior | Machine Learning",
+    "cidade": "São Paulo - SP",
+    "telefone": "(11) 98421-3307",
+    "email": "ana.lima@exemplo.com",
+    "link": "linkedin.com/in/ana-beatriz-lima-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Cientista de dados com 9 anos de experiência em modelos preditivos e processamento de linguagem natural. Atuou na concepção de pipelines de classificação de documentos em produção, reduzindo em 40% o tempo de triagem manual. Mestre em Ciência da Computação, com foco em aprendizado profundo aplicado a texto.",
+    "experiencias": [
+      {
+        "cargo": "Cientista de Dados Sênior",
+        "empresa": "Grupo Vértice Seguros",
+        "periodo": "03/2021 - atual",
+        "periodo_normalizado": {
+          "inicio": "2021-03",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Liderança técnica de equipe de 4 cientistas de dados em projetos de NLP para análise de sinistros.",
+          "Desenvolvimento de classificador de documentos com F1 de 0,91, em produção há 2 anos.",
+          "Implantação de monitoramento de drift com MLflow e alertas automatizados.",
+          "Definição de padrões de avaliação offline e online para modelos de linguagem em produção."
+        ]
+      },
+      {
+        "cargo": "Cientista de Dados Pleno",
+        "empresa": "Lumina Analytics",
+        "periodo": "06/2018 - 02/2021",
+        "periodo_normalizado": {
+          "inicio": "2018-06",
+          "fim": "2021-02"
+        },
+        "atividades": [
+          "Modelos de propensão de crédito para carteira de varejo com ganho de 12% em conversão.",
+          "Padronização de experimentos e versionamento de modelos.",
+          "Mentoria de 3 analistas juniores em boas práticas de modelagem."
+        ]
+      },
+      {
+        "cargo": "Analista de Dados",
+        "empresa": "Mercado Central Atacadista",
+        "periodo": "01/2016 - 05/2018",
+        "periodo_normalizado": {
+          "inicio": "2016-01",
+          "fim": "2018-05"
+        },
+        "atividades": [
+          "Construção de dashboards gerenciais e modelos de previsão de demanda."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Ciência da Computação",
+        "instituicao": "Universidade Federal de Minas Gerais (UFMG)",
+        "periodo": "2016 - 2018",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2018"
+        }
+      },
+      {
+        "curso": "Bacharelado em Estatística",
+        "instituicao": "Universidade de São Paulo (USP)",
+        "periodo": "2011 - 2015",
+        "periodo_normalizado": {
+          "inicio": "2011",
+          "fim": "2015"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, SQL, R",
+      "Frameworks": "PyTorch, scikit-learn, Hugging Face Transformers",
+      "Engenharia": "Docker, Airflow, MLflow, AWS (SageMaker, S3)",
+      "Dados": "Spark, PostgreSQL, Pandas"
+    },
+    "certificacoes": [
+      "AWS Certified Machine Learning - Specialty (2023)",
+      "Deep Learning Specialization (Coursera, 2019)"
+    ],
+    "cursos": [
+      "Natural Language Processing Specialization (DeepLearning.AI, 2021)"
+    ],
+    "idiomas": [
+      "Inglês: fluente (C1)",
+      "Espanhol: intermediário (B1)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Classificador de laudos médicos",
+        "descricao": "Modelo BERT ajustado para classificar 22 tipos de laudos, com acurácia de 89% em produção."
+      },
+      {
+        "titulo": "Extração de entidades em apólices",
+        "descricao": "Pipeline de NER para extração de segurado, vigência e coberturas de documentos digitalizados."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 9,
+      "maior_formacao_concluida": "Mestrado",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "layout em duas colunas",
+        "períodos em coluna estreita podem quebrar e perder o hífen na extração"
+      ]
+    }
+  },
+  {
+    "id": "02",
+    "arquivo": "02_rafael_augusto_mendes.docx",
+    "formato": "docx",
+    "layout": "band",
+    "nome": "Rafael Augusto Mendes",
+    "titulo": "Engenheiro de Software com foco em IA",
+    "cidade": "Curitiba - PR",
+    "telefone": "(41) 99712-5540",
+    "email": "rafael.mendes@exemplo.com",
+    "link": "github.com/rafael-mendes-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheiro com 5 anos de experiência em desenvolvimento backend e integração de modelos de IA generativa em produtos. Experiência em RAG com bases vetoriais e avaliação de respostas de LLMs.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de IA",
+        "empresa": "Nexa Tecnologia",
+        "periodo": "08/2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022-08",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Implementação de assistente de atendimento com RAG sobre base de 18 mil documentos.",
+          "Criação de suíte de avaliação automática com precisão de respostas superior a 85%.",
+          "Otimização de custos de inferência em 30% com cache semântico.",
+          "Construção de pipeline de ingestão e chunking de documentos PDF e DOCX com metadados.",
+          "Participação na definição de guardrails e políticas de uso de LLMs na empresa."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedor Backend",
+        "empresa": "Fintech Prisma Pagamentos",
+        "periodo": "02/2020 - 07/2022",
+        "periodo_normalizado": {
+          "inicio": "2020-02",
+          "fim": "2022-07"
+        },
+        "atividades": [
+          "APIs de alto volume em Python e Go para processamento de transações.",
+          "Redução de latência média de 420 ms para 180 ms.",
+          "Implementação de testes de contrato e observabilidade com OpenTelemetry."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia da Computação",
+        "instituicao": "Pontifícia Universidade Católica do Paraná (PUCPR)",
+        "periodo": "2015 - 2019",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2019"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, TypeScript, Go",
+      "IA/ML": "LangChain, OpenAI API, embeddings, FAISS, pgvector",
+      "Infra": "Docker, Kubernetes, GitHub Actions",
+      "Bancos": "PostgreSQL, Redis"
+    },
+    "certificacoes": [
+      "Certificação Kubernetes CKAD (2022)"
+    ],
+    "cursos": [
+      "LLMOps (DeepLearning.AI, 2024)",
+      "Building Systems with the ChatGPT API (2023)"
+    ],
+    "idiomas": [
+      "Inglês: avançado (C1)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Assistente jurídico interno",
+        "descricao": "Sistema RAG sobre contratos com citação de trechos e avaliação de fidelidade das respostas."
+      },
+      {
+        "titulo": "Biblioteca open source de avaliação de RAG",
+        "descricao": "Ferramenta com métricas de recall de contexto e groundedness, com 300 estrelas no GitHub."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 5,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX (duas colunas)"
+      ]
+    }
+  },
+  {
+    "id": "03",
+    "arquivo": "03_juliana_carvalho_souza.pdf",
+    "formato": "pdf",
+    "layout": "teal",
+    "nome": "Juliana Carvalho Souza",
+    "titulo": "Analista de Sistemas | Pós-graduada em Inteligência Artificial",
+    "cidade": "Belo Horizonte - MG",
+    "telefone": "(31) 98835-1024",
+    "email": "juliana.souza@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Profissional com 7 anos de experiência em análise e desenvolvimento de sistemas, atualmente migrando para projetos de aprendizado de máquina. Experiência em automação de processos e extração de dados de documentos fiscais.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Sistemas Sênior",
+        "empresa": "Tecnologia Orion Ltda.",
+        "periodo": "04/2019 - atual",
+        "periodo_normalizado": {
+          "inicio": "2019-04",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenvolvimento de módulo de OCR e extração de campos de notas fiscais com redução de 60% de digitação manual.",
+          "Coordenação de projeto de automação de processos com 3 equipes.",
+          "Integração de APIs de terceiros em ambiente Java/Spring.",
+          "Levantamento de requisitos junto às áreas fiscal e contábil para novos módulos.",
+          "Prova de conceito de classificação de documentos com scikit-learn."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedora Java Júnior",
+        "empresa": "Sistemas Brasil Consultoria",
+        "periodo": "03/2017 - 03/2019",
+        "periodo_normalizado": {
+          "inicio": "2017-03",
+          "fim": "2019-03"
+        },
+        "atividades": [
+          "Manutenção e evolução de sistemas ERP para clientes do setor industrial.",
+          "Suporte a migração de banco de dados Oracle para PostgreSQL."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em Inteligência Artificial e Machine Learning",
+        "instituicao": "Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
+        "periodo": "2022 - 2023",
+        "periodo_normalizado": {
+          "inicio": "2022",
+          "fim": "2023"
+        }
+      },
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Centro Universitário UniBH",
+        "periodo": "2014 - 2016",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2016"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Java, SQL",
+      "ML": "scikit-learn, XGBoost, Keras (básico)",
+      "Ferramentas": "Power BI, Git, Jira, Docker"
+    },
+    "certificacoes": [
+      "Google Data Analytics Professional Certificate (2021)"
+    ],
+    "cursos": [
+      "Formação em Python para Dados (Alura, 2021)"
+    ],
+    "idiomas": [
+      "Inglês: intermediário (B2)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Leitor de notas fiscais",
+        "descricao": "Solução de OCR com Tesseract e regras de validação para extração de CNPJ, valores e itens."
+      },
+      {
+        "titulo": "TCC da pós-graduação",
+        "descricao": "Comparação de modelos de classificação de texto para triagem de chamados de suporte."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 7,
+      "maior_formacao_concluida": "Especialização/MBA",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "barra lateral com contato e competências separada do corpo",
+        "competências em etiquetas"
+      ]
+    }
+  },
+  {
+    "id": "04",
+    "arquivo": "04_carlos_eduardo_pinheiro.docx",
+    "formato": "docx",
+    "layout": "lattes",
+    "nome": "Carlos Eduardo Pinheiro",
+    "titulo": "Pesquisador em Visão Computacional e Aprendizado Profundo",
+    "cidade": "Campinas - SP",
+    "telefone": "(19) 99144-6078",
+    "email": "carlos.pinheiro@exemplo.com",
+    "link": "orcid.org/0000-0000-0000-FICT",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Doutor em Engenharia Elétrica com ampla produção científica em visão computacional e redes neurais convolucionais. Experiência em pesquisa aplicada, com 14 artigos publicados em periódicos e conferências internacionais.",
+    "experiencias": [
+      {
+        "cargo": "Pesquisador Pós-Doutorado",
+        "empresa": "Universidade Estadual de Campinas (UNICAMP)",
+        "periodo": "03/2021 - 02/2024",
+        "periodo_normalizado": {
+          "inicio": "2021-03",
+          "fim": "2024-02"
+        },
+        "atividades": [
+          "Desenvolvimento de modelos de segmentação de imagens médicas com acurácia de 93%.",
+          "Orientação de 2 alunos de iniciação científica.",
+          "Publicação de 5 artigos em periódicos internacionais durante o período.",
+          "Coordenação do grupo de leitura em aprendizado profundo do laboratório."
+        ]
+      },
+      {
+        "cargo": "Professor Substituto",
+        "empresa": "Universidade Federal de Itajubá (UNIFEI)",
+        "periodo": "08/2019 - 12/2020",
+        "periodo_normalizado": {
+          "inicio": "2019-08",
+          "fim": "2020-12"
+        },
+        "atividades": [
+          "Ministração de disciplinas de Processamento Digital de Imagens e Redes Neurais.",
+          "Orientação de trabalhos de conclusão de curso na área de visão computacional."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Doutorado em Engenharia Elétrica",
+        "instituicao": "Universidade Estadual de Campinas (UNICAMP)",
+        "periodo": "2015 - 2019",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2019"
+        }
+      },
+      {
+        "curso": "Mestrado em Engenharia Elétrica",
+        "instituicao": "Universidade Federal de Uberlândia (UFU)",
+        "periodo": "2013 - 2015",
+        "periodo_normalizado": {
+          "inicio": "2013",
+          "fim": "2015"
+        }
+      },
+      {
+        "curso": "Bacharelado em Engenharia Elétrica",
+        "instituicao": "Universidade Federal de Uberlândia (UFU)",
+        "periodo": "2008 - 2012",
+        "periodo_normalizado": {
+          "inicio": "2008",
+          "fim": "2012"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, C++, MATLAB",
+      "Frameworks": "PyTorch, OpenCV, TensorFlow",
+      "Pesquisa": "Redes convolucionais, segmentação semântica, transferência de aprendizado",
+      "Outros": "LaTeX, Linux, Slurm (computação em cluster)"
+    },
+    "certificacoes": [
+      "Deep Learning Specialization (Coursera, 2020)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: avançado (C1)",
+      "Francês: básico (A2)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Segmentação de lesões de pele",
+        "descricao": "U-Net com atenção para segmentação de imagens dermatoscópicas (Dice de 0,88)."
+      },
+      {
+        "titulo": "Detecção de defeitos em peças",
+        "descricao": "Projeto em parceria com indústria automotiva para inspeção visual automatizada."
+      }
+    ],
+    "publicacoes": [
+      "PINHEIRO, C. E.; ALVES, R. M. Segmentação de imagens dermatoscópicas com redes de atenção. Revista Brasileira de Computação Aplicada, v. 15, 2023.",
+      "PINHEIRO, C. E.; COSTA, L. F.; ARAÚJO, M. Transfer learning for industrial defect detection. Proceedings of the Brazilian Conference on Intelligent Systems (BRACIS), 2022.",
+      "PINHEIRO, C. E. et al. Attention mechanisms for medical image segmentation: a review. Journal of Imaging Science, v. 8, 2021.",
+      "PINHEIRO, C. E.; MOREIRA, P. Redes convolucionais leves para inspeção visual em tempo real. Anais do SIBGRAPI, 2020.",
+      "PINHEIRO, C. E.; SILVA, J. R. Self-supervised pretraining for small medical datasets. Workshop on Medical Imaging, 2019."
+    ],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 8,
+      "maior_formacao_concluida": "Doutorado",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "documento de 2 páginas",
+        "tabelas sem borda para datas",
+        "lista numerada de publicações"
+      ]
+    }
+  },
+  {
+    "id": "05",
+    "arquivo": "05_mariana_oliveira_teixeira.pdf",
+    "formato": "pdf",
+    "layout": "swiss",
+    "nome": "Mariana Oliveira Teixeira",
+    "titulo": "Cientista de Dados | Estatística Aplicada",
+    "cidade": "Rio de Janeiro - RJ",
+    "telefone": "(21) 97788-2013",
+    "email": "mariana.teixeira@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Estatística com 4 anos de experiência em análise preditiva e experimentação A/B para produtos digitais. Experiência crescente em modelagem com aprendizado de máquina e comunicação de resultados para áreas de negócio.",
+    "experiencias": [
+      {
+        "cargo": "Cientista de Dados",
+        "empresa": "Plataforma Varejo Digital",
+        "periodo": "01/2023 - atual",
+        "periodo_normalizado": {
+          "inicio": "2023-01",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Modelo de churn com AUC de 0,84 utilizado pela área de CRM.",
+          "Desenho e análise de mais de 30 experimentos A/B.",
+          "Construção de pipelines de dados com dbt e BigQuery.",
+          "Criação de modelo de previsão de vendas semanal por categoria com erro médio de 7%.",
+          "Apresentações mensais de resultados para diretoria comercial."
+        ]
+      },
+      {
+        "cargo": "Analista de Dados Júnior",
+        "empresa": "Agência Dataflow Marketing",
+        "periodo": "02/2021 - 12/2022",
+        "periodo_normalizado": {
+          "inicio": "2021-02",
+          "fim": "2022-12"
+        },
+        "atividades": [
+          "Relatórios de performance de campanhas e análise de atribuição de canais.",
+          "Automação de relatórios recorrentes em Python, economizando 10 horas semanais da equipe."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bootcamp Data Science & Machine Learning",
+        "instituicao": "Ironhack (online)",
+        "periodo": "2022",
+        "periodo_normalizado": {
+          "inicio": "2022",
+          "fim": "2022"
+        }
+      },
+      {
+        "curso": "Bacharelado em Estatística",
+        "instituicao": "Universidade Federal Fluminense (UFF)",
+        "periodo": "2017 - 2020",
+        "periodo_normalizado": {
+          "inicio": "2017",
+          "fim": "2020"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, R, SQL",
+      "Modelagem": "Regressão, árvores de decisão, séries temporais, LightGBM",
+      "Ferramentas": "BigQuery, dbt, Looker, Git"
+    },
+    "certificacoes": [
+      "Google Cloud Professional Data Engineer (2023)"
+    ],
+    "cursos": [
+      "Estatística Bayesiana Aplicada (curso livre, 2023)"
+    ],
+    "idiomas": [
+      "Inglês: intermediário (B2)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de churn",
+        "descricao": "Modelo de gradient boosting com explicabilidade via SHAP adotado pelo time de CRM."
+      },
+      {
+        "titulo": "Painel de experimentação",
+        "descricao": "Ferramenta interna para cálculo de tamanho de amostra e análise de testes A/B."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 4,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "grade com rótulos de seção numerados na margem esquerda",
+        "competências em três colunas"
+      ]
+    }
+  },
+  {
+    "id": "06",
+    "arquivo": "06_thiago_henrique_santos.docx",
+    "formato": "docx",
+    "layout": "rightbar",
+    "nome": "Thiago Henrique Santos",
+    "titulo": "Desenvolvedor Python | Engenharia de Dados",
+    "cidade": "Recife - PE",
+    "telefone": "(81) 98602-4471",
+    "email": "thiago.santos@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Desenvolvedor com 6 anos de experiência em Python e engenharia de dados, com formação técnica e aprendizado contínuo em IA. Experiência em construção de pipelines ETL e APIs para modelos de classificação.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de Dados",
+        "empresa": "Logística Rota Certa",
+        "periodo": "05/2021 - atual",
+        "periodo_normalizado": {
+          "inicio": "2021-05",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Pipelines de ingestão de 2 milhões de eventos diários com Kafka e Airflow.",
+          "API de previsão de atrasos em FastAPI servindo modelo de gradient boosting.",
+          "Migração de rotinas legadas em cron para Airflow com monitoramento de falhas.",
+          "Implantação de testes de qualidade de dados com Great Expectations."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedor Python",
+        "empresa": "Startup Agro Conecta",
+        "periodo": "01/2019 - 04/2021",
+        "periodo_normalizado": {
+          "inicio": "2019-01",
+          "fim": "2021-04"
+        },
+        "atividades": [
+          "Desenvolvimento de backend e integração com sensores de campo.",
+          "Automação de rotinas de dados reduzindo tempo de processamento em 50%.",
+          "Coleta e tratamento de dados de sensores IoT em tempo real."
+        ]
+      },
+      {
+        "cargo": "Técnico em Suporte e Programação",
+        "empresa": "Provedor Nordeste Net",
+        "periodo": "03/2017 - 12/2018",
+        "periodo_normalizado": {
+          "inicio": "2017-03",
+          "fim": "2018-12"
+        },
+        "atividades": [
+          "Suporte de infraestrutura e scripts de automação."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Técnico em Informática",
+        "instituicao": "Instituto Federal de Pernambuco (IFPE)",
+        "periodo": "2014 - 2016",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2016"
+        }
+      },
+      {
+        "curso": "Formação complementar em Machine Learning",
+        "instituicao": "Alura (online)",
+        "periodo": "2023",
+        "periodo_normalizado": {
+          "inicio": "2023",
+          "fim": "2023"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Bash, SQL",
+      "Dados": "Pandas, Spark, Kafka, Airflow",
+      "ML": "scikit-learn, FastAPI para servir modelos",
+      "Infra": "Linux, Docker, AWS (EC2, Lambda, S3)"
+    },
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner (2022)"
+    ],
+    "cursos": [
+      "Engenharia de Dados com Apache Spark (Alura, 2022)"
+    ],
+    "idiomas": [
+      "Inglês: intermediário (B1)"
+    ],
+    "projetos": [
+      {
+        "titulo": "API de previsão de atrasos",
+        "descricao": "Serviço FastAPI com modelo LightGBM, atendendo 50 mil requisições por dia."
+      },
+      {
+        "titulo": "Chatbot de rastreamento",
+        "descricao": "Protótipo de atendimento por WhatsApp com LLM consultando o status de entregas."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 8,
+      "maior_formacao_concluida": "Curso técnico",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX",
+        "coluna lateral à direita"
+      ]
+    }
+  },
+  {
+    "id": "07",
+    "arquivo": "07_fernanda_rocha_nascimento.pdf",
+    "formato": "pdf",
+    "layout": "exec",
+    "nome": "Fernanda Rocha Nascimento",
+    "titulo": "Gestora de Projetos de Dados e IA | MBA em Gestão de Tecnologia",
+    "cidade": "Porto Alegre - RS",
+    "telefone": "(51) 99281-7745",
+    "email": "fernanda.nascimento@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Profissional com 10 anos de experiência em projetos de dados, combinando visão de negócio com conhecimento técnico em aprendizado de máquina. Conduziu a implantação de três modelos de IA em operações industriais.",
+    "experiencias": [
+      {
+        "cargo": "Gerente de Projetos de Dados",
+        "empresa": "Metalúrgica Sul Industrial",
+        "periodo": "02/2020 - atual",
+        "periodo_normalizado": {
+          "inicio": "2020-02",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Liderança de projetos de manutenção preditiva com redução de 18% em paradas não planejadas.",
+          "Interface entre times técnicos e diretoria para priorização de iniciativas de IA.",
+          "Gestão de orçamento anual de R$ 2,4 milhões para iniciativas de dados.",
+          "Contratação e formação de equipe de 8 profissionais de dados."
+        ]
+      },
+      {
+        "cargo": "Analista de BI Sênior",
+        "empresa": "Banco Regional Gaúcho",
+        "periodo": "03/2015 - 01/2020",
+        "periodo_normalizado": {
+          "inicio": "2015-03",
+          "fim": "2020-01"
+        },
+        "atividades": [
+          "Modelagem de indicadores de risco e relatórios regulatórios.",
+          "Implantação de governança de indicadores e dicionário de dados corporativo."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Tecnologia da Informação",
+        "instituicao": "Fundação Getulio Vargas (FGV)",
+        "periodo": "2019 - 2021",
+        "periodo_normalizado": {
+          "inicio": "2019",
+          "fim": "2021"
+        }
+      },
+      {
+        "curso": "Bacharelado em Matemática",
+        "instituicao": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+        "periodo": "2010 - 2014",
+        "periodo_normalizado": {
+          "inicio": "2010",
+          "fim": "2014"
+        }
+      }
+    ],
+    "competencias": {
+      "Técnico": "Python (intermediário), SQL, noções de scikit-learn",
+      "Gestão": "Scrum, OKRs, gestão de portfólio",
+      "Ferramentas": "Power BI, Tableau, Jira, Confluence"
+    },
+    "certificacoes": [
+      "PMP - Project Management Professional (2021)",
+      "Scrum Master Certified - PSM I (2020)"
+    ],
+    "cursos": [
+      "IA para Líderes (curso executivo, 2023)"
+    ],
+    "idiomas": [
+      "Inglês: avançado (C1)",
+      "Alemão: básico (A1)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Programa de manutenção preditiva",
+        "descricao": "Coordenação de 3 frentes de modelagem em linhas de produção, com retorno em 14 meses."
+      },
+      {
+        "titulo": "Roadmap de IA corporativo",
+        "descricao": "Estruturação de portfólio com 12 iniciativas priorizadas por valor e viabilidade."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Gestão",
+      "anos_experiencia_aprox": 10,
+      "maior_formacao_concluida": "Especialização/MBA",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "texto com espaçamento entre letras (nome e empresas podem sair como 'F E R N A N DA')",
+        "competências em etiquetas dentro de quadros"
+      ]
+    }
+  },
+  {
+    "id": "08",
+    "arquivo": "08_lucas_vinicius_barbosa.docx",
+    "formato": "docx",
+    "layout": "cobalt",
+    "nome": "Lucas Vinícius Barbosa",
+    "titulo": "Engenheiro de Machine Learning | MLOps e Cloud",
+    "cidade": "Goiânia - GO",
+    "telefone": "(62) 98117-5582",
+    "email": "lucas.barbosa@exemplo.com",
+    "link": "linkedin.com/in/lucas-barbosa-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheiro de ML com 4 anos de experiência em automação do ciclo de vida de modelos, do treinamento à produção. Forte atuação em infraestrutura como código e monitoramento de modelos.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de Machine Learning",
+        "empresa": "Banco Digital Acesso",
+        "periodo": "09/2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022-09",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Plataforma de treinamento e deploy de modelos reduzindo o tempo de publicação de 3 semanas para 2 dias.",
+          "Implantação de detecção de fraude com latência inferior a 50 ms.",
+          "Criação de feature store com Feast compartilhada por 5 times de dados.",
+          "Definição de padrões de monitoramento de modelos com Prometheus e Grafana."
+        ]
+      },
+      {
+        "cargo": "Engenheiro de DevOps",
+        "empresa": "Software House Ômega",
+        "periodo": "01/2020 - 08/2022",
+        "periodo_normalizado": {
+          "inicio": "2020-01",
+          "fim": "2022-08"
+        },
+        "atividades": [
+          "Provisionamento de ambientes com Terraform para equipes de dados.",
+          "Criação de esteiras de CI/CD para aplicações de IA.",
+          "Redução de 35% nos custos de infraestrutura em nuvem com otimização de recursos."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Federal de Goiás (UFG)",
+        "periodo": "2016 - 2019",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2019"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Scala, Bash",
+      "ML/MLOps": "PyTorch, MLflow, Kubeflow, Feast",
+      "Cloud": "AWS (ECS, SageMaker, Step Functions), Terraform",
+      "Outros": "Prometheus, Grafana, Docker"
+    },
+    "certificacoes": [
+      "AWS Certified Machine Learning - Associate (2023)",
+      "HashiCorp Certified: Terraform Associate (2021)"
+    ],
+    "cursos": [
+      "Kubernetes para Machine Learning (curso livre, 2023)"
+    ],
+    "idiomas": [
+      "Inglês: avançado (C1)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma interna de MLOps",
+        "descricao": "Esteira padronizada de treino, registro e deploy de modelos com Kubeflow e MLflow."
+      },
+      {
+        "titulo": "Detecção de fraude em tempo real",
+        "descricao": "Serviço de inferência em streaming com Kafka e modelos em PyTorch."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 5,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX",
+        "competências em grade de células",
+        "período exibido como 'início' + 'até fim'"
+      ]
+    }
+  },
+  {
+    "id": "09",
+    "arquivo": "09_patricia_gomes_almeida.pdf",
+    "formato": "pdf",
+    "layout": "plex",
+    "nome": "Patrícia Gomes Almeida",
+    "titulo": "Cientista de Dados | Física e Aprendizado de Máquina",
+    "cidade": "Florianópolis - SC",
+    "telefone": "(48) 99634-0219",
+    "email": "patricia.almeida@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Física de formação com 6 anos de experiência em modelagem quantitativa e aprendizado de máquina. Experiência em séries temporais e detecção de anomalias em sensores industriais.",
+    "experiencias": [
+      {
+        "cargo": "Cientista de Dados Pleno",
+        "empresa": "Energia Costa Sul",
+        "periodo": "07/2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022-07",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Modelos de detecção de anomalias em turbinas com 27% menos alarmes falsos.",
+          "Previsão de carga energética com erro médio abaixo de 4%.",
+          "Desenvolvimento de painel de monitoramento de ativos utilizado pela operação.",
+          "Documentação técnica e transferência de conhecimento para a equipe de engenharia."
+        ]
+      },
+      {
+        "cargo": "Cientista de Dados Júnior",
+        "empresa": "Instituto de Pesquisas Tecnológicas",
+        "periodo": "03/2019 - 06/2022",
+        "periodo_normalizado": {
+          "inicio": "2019-03",
+          "fim": "2022-06"
+        },
+        "atividades": [
+          "Análise de dados experimentais e suporte a modelos de simulação física.",
+          "Desenvolvimento de rotinas de análise estatística em Python e Julia."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Física",
+        "instituicao": "Universidade Federal de Santa Catarina (UFSC)",
+        "periodo": "2017 - 2019",
+        "periodo_normalizado": {
+          "inicio": "2017",
+          "fim": "2019"
+        }
+      },
+      {
+        "curso": "Bacharelado em Física",
+        "instituicao": "Universidade Federal de Santa Catarina (UFSC)",
+        "periodo": "2013 - 2017",
+        "periodo_normalizado": {
+          "inicio": "2013",
+          "fim": "2017"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Julia, SQL",
+      "ML": "Keras, XGBoost, Prophet, detecção de anomalias",
+      "Dados": "Snowflake, dbt, Pandas, NumPy"
+    },
+    "certificacoes": [
+      "Machine Learning Engineering for Production - MLOps (Coursera, 2023)"
+    ],
+    "cursos": [
+      "Séries Temporais com Python (curso livre, 2022)"
+    ],
+    "idiomas": [
+      "Inglês: avançado (C1)",
+      "Espanhol: avançado (C1)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Detecção de anomalias em turbinas",
+        "descricao": "Autoencoders e isolation forest aplicados a 400 sensores, com alertas para a operação."
+      },
+      {
+        "titulo": "Dissertação de mestrado",
+        "descricao": "Modelagem estatística de sistemas complexos com métodos de Monte Carlo."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 6,
+      "maior_formacao_concluida": "Mestrado",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "cards em duas colunas",
+        "competências em etiquetas"
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "arquivo": "10_diego_morais_ribeiro.pdf",
+    "formato": "pdf",
+    "layout": "dev",
+    "nome": "Diego Morais Ribeiro",
+    "titulo": "Desenvolvedor de Software | Aprendizado de Máquina",
+    "cidade": "Salvador - BA",
+    "telefone": "(71) 98240-6639",
+    "email": "diego.ribeiro@exemplo.com",
+    "link": "github.com/diego-ribeiro-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Desenvolvedor com 3 anos de experiência em aplicações web e integração de modelos de machine learning em sistemas de produção. Buscando atuação dedicada em engenharia de IA.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor Full Stack",
+        "empresa": "Agência Pixel Digital",
+        "periodo": "06/2023 - atual",
+        "periodo_normalizado": {
+          "inicio": "2023-06",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenvolvimento de sistema de recomendação de produtos integrado a modelo de embeddings.",
+          "Manutenção de APIs REST em Django para e-commerce.",
+          "Criação de busca semântica no catálogo de produtos usando sentence-transformers."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedor Júnior",
+        "empresa": "Software Bahia Ltda.",
+        "periodo": "01/2022 - 05/2023",
+        "periodo_normalizado": {
+          "inicio": "2022-01",
+          "fim": "2023-05"
+        },
+        "atividades": [
+          "Implementação de funcionalidades web e testes automatizados.",
+          "Participação em cerimônias ágeis e revisão de código em equipe de 6 pessoas."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação (cursando, 7º semestre)",
+        "instituicao": "Universidade Federal da Bahia (UFBA)",
+        "periodo": "2021 - previsão 2026",
+        "periodo_normalizado": {
+          "inicio": "2021",
+          "fim": "2026 (previsão)"
+        }
+      },
+      {
+        "curso": "Curso de Extensão em Inteligência Artificial",
+        "instituicao": "Universidade Federal da Bahia (UFBA)",
+        "periodo": "2022",
+        "periodo_normalizado": {
+          "inicio": "2022",
+          "fim": "2022"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, JavaScript, SQL",
+      "Frameworks": "Django, React, scikit-learn, Hugging Face",
+      "Infra": "Docker, PostgreSQL, Git"
+    },
+    "certificacoes": [
+      "Curso de NLP com Transformers (Hugging Face, 2023)"
+    ],
+    "cursos": [
+      "Introdução a Deep Learning (curso livre, 2023)"
+    ],
+    "idiomas": [
+      "Inglês: intermediário (B1)"
+    ],
+    "projetos": [
+      {
+        "titulo": "Recomendador de produtos",
+        "descricao": "Sistema baseado em embeddings de texto e imagem integrado ao e-commerce de clientes."
+      },
+      {
+        "titulo": "Classificador de currículos (acadêmico)",
+        "descricao": "Projeto de disciplina para extrair habilidades de currículos em PDF com spaCy e Transformers."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Júnior",
+      "anos_experiencia_aprox": 3,
+      "maior_formacao_concluida": "Graduação em andamento",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "competências escritas como código",
+        "rótulos de contato em inglês abreviado (tel, git)"
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "arquivo": "11_gabriel_takeshi_nakamura.pdf",
+    "formato": "pdf",
+    "layout": "plex (p2)",
+    "nome": "Gabriel Takeshi Nakamura",
+    "titulo": "Engenheiro de Machine Learning Sênior | LLMs e NLP",
+    "cidade": "São Paulo - SP",
+    "telefone": "+55 11 99318-4462",
+    "email": "gabriel.nakamura@exemplo.com",
+    "link": "github.com/gnakamura-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheiro de machine learning com 8 anos de experiência, dos quais os últimos 3 dedicados a aplicações com grandes modelos de linguagem. Experiência em fine-tuning de modelos abertos, avaliação de LLMs e extração estruturada de informações de documentos jurídicos e financeiros.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de ML Sênior",
+        "empresa": "Juris Analítica S.A.",
+        "periodo": "jan/2022 – atual",
+        "periodo_normalizado": {
+          "inicio": "2022-01",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Liderança da plataforma de extração de cláusulas de contratos com LLMs, processando 40 mil documentos por mês.",
+          "Fine-tuning de modelo aberto de 8B parâmetros com LoRA, reduzindo em 70% o custo por documento.",
+          "Criação de conjunto de avaliação com 2.500 documentos anotados e métricas por campo."
+        ]
+      },
+      {
+        "cargo": "Engenheiro de ML Pleno",
+        "empresa": "Banco Horizonte Digital",
+        "periodo": "mar/2019 – dez/2021",
+        "periodo_normalizado": {
+          "inicio": "2019-03",
+          "fim": "2021-12"
+        },
+        "atividades": [
+          "Modelos de classificação de reclamações de clientes com BERT em português.",
+          "Serviço de inferência em Kubernetes com autoescalonamento."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedor Python",
+        "empresa": "Consultoria Delta Sistemas",
+        "periodo": "fev/2017 – fev/2019",
+        "periodo_normalizado": {
+          "inicio": "2017-02",
+          "fim": "2019-02"
+        },
+        "atividades": [
+          "Automação de relatórios e integração de sistemas legados."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Ciência da Computação",
+        "instituicao": "Universidade de São Paulo (IME-USP)",
+        "periodo": "2015 – 2017",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2017"
+        }
+      },
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade Federal de São Carlos (UFSCar)",
+        "periodo": "2010 – 2014",
+        "periodo_normalizado": {
+          "inicio": "2010",
+          "fim": "2014"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Rust, SQL",
+      "LLMs": "Transformers, vLLM, LoRA/QLoRA, LangChain, DSPy",
+      "Dados e busca": "Elasticsearch, pgvector, Qdrant",
+      "Infra": "AWS, Kubernetes, Ray, Docker"
+    },
+    "certificacoes": [
+      "AWS Certified Machine Learning - Specialty (2022)",
+      "Certified Kubernetes Application Developer (2021)"
+    ],
+    "cursos": [
+      "Full Stack Deep Learning (2023)"
+    ],
+    "idiomas": [
+      "Inglês: fluente",
+      "Japonês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Extrator de cláusulas contratuais",
+        "descricao": "Pipeline com OCR, segmentação e LLM com saída em JSON validada por esquema."
+      },
+      {
+        "titulo": "Benchmark de LLMs em português",
+        "descricao": "Conjunto de avaliação público para tarefas de extração em documentos jurídicos."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 8,
+      "maior_formacao_concluida": "Mestrado",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "cards em duas colunas",
+        "competências em etiquetas"
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "arquivo": "12_larissa_cristina_santos.docx",
+    "formato": "docx",
+    "layout": "band",
+    "nome": "Larissa Cristina dos Santos",
+    "titulo": "Engenheira de IA | RAG e Processamento de Documentos",
+    "cidade": "Recife - PE",
+    "telefone": "(81) 99654-2087",
+    "email": "larissa.santos@exemplo.com",
+    "link": "linkedin.com/in/larissa-santos-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheira de IA com 5 anos de experiência em desenvolvimento de software e 3 anos com IA generativa. Atuo na construção de pipelines de RAG e de extração de dados de PDFs e documentos escaneados, com foco em qualidade e avaliação contínua.",
+    "experiencias": [
+      {
+        "cargo": "Engenheira de IA",
+        "empresa": "Porto Digital Soluções",
+        "periodo": "05/2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022-05",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenvolvimento de pipeline de extração de dados de laudos e contratos em PDF com LLMs e validação por esquema JSON.",
+          "Implantação de RAG para base de conhecimento interna com 25 mil documentos.",
+          "Criação de painel de métricas de acurácia por campo extraído."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedora Backend",
+        "empresa": "Recife Tech Serviços",
+        "periodo": "02/2020 - 04/2022",
+        "periodo_normalizado": {
+          "inicio": "2020-02",
+          "fim": "2022-04"
+        },
+        "atividades": [
+          "APIs em Node.js e Python para sistemas de gestão escolar.",
+          "Integração com serviços de OCR para digitalização de documentos de matrícula."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade Federal de Pernambuco (UFPE)",
+        "periodo": "2016 - 2020",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2020"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, TypeScript",
+      "IA": "LangChain, LlamaIndex, OpenAI API, Claude API, embeddings",
+      "Documentos": "PyMuPDF, Unstructured, Tesseract, python-docx",
+      "Infra": "Docker, GCP (Vertex AI, Cloud Run), PostgreSQL"
+    },
+    "certificacoes": [
+      "Google Cloud Professional Machine Learning Engineer (2023)"
+    ],
+    "cursos": [
+      "Generative AI with Large Language Models (DeepLearning.AI, 2023)"
+    ],
+    "idiomas": [
+      "Inglês: avançado",
+      "Espanhol: básico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Leitor de laudos médicos",
+        "descricao": "Extração de 30 campos de laudos com F1 médio de 0,93 em produção."
+      },
+      {
+        "titulo": "Avaliador de RAG",
+        "descricao": "Ferramenta interna que mede fidelidade e cobertura das respostas geradas."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 5,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX (duas colunas)"
+      ]
+    }
+  },
+  {
+    "id": "13",
+    "arquivo": "13_joao_pedro_albuquerque.pdf",
+    "formato": "pdf",
+    "layout": "ats",
+    "nome": "João Pedro Albuquerque",
+    "titulo": "Estudante de Engenharia de Computação | Estagiário de Dados",
+    "cidade": "Campinas - SP",
+    "telefone": "(19) 98120-7731",
+    "email": "joaopedro.albuquerque@exemplo.com",
+    "link": "github.com/jpalbuquerque-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Estudante do 8º semestre de Engenharia de Computação, com estágio de um ano em análise de dados. Interesse em aprendizado de máquina e IA generativa, com projetos acadêmicos em classificação de texto.",
+    "experiencias": [
+      {
+        "cargo": "Estagiário de Dados",
+        "empresa": "Cooperativa Agrícola Campos Gerais",
+        "periodo": "fev/2025 – atual",
+        "periodo_normalizado": {
+          "inicio": "2025-02",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Limpeza e preparação de bases de produção agrícola em Python.",
+          "Construção de painéis em Power BI para a área comercial.",
+          "Apoio em modelo de previsão de safra com regressão linear."
+        ]
+      },
+      {
+        "cargo": "Monitor de Algoritmos",
+        "empresa": "Universidade Estadual de Campinas (UNICAMP)",
+        "periodo": "ago/2023 – dez/2024",
+        "periodo_normalizado": {
+          "inicio": "2023-08",
+          "fim": "2024-12"
+        },
+        "atividades": [
+          "Atendimento a alunos de graduação e correção de exercícios de programação em C."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Computação (cursando, 8º semestre)",
+        "instituicao": "Universidade Estadual de Campinas (UNICAMP)",
+        "periodo": "2022 – previsão 2026",
+        "periodo_normalizado": {
+          "inicio": "2022",
+          "fim": "2026 (previsão)"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, C, SQL",
+      "Bibliotecas": "Pandas, scikit-learn, Matplotlib",
+      "Ferramentas": "Git, Jupyter, Power BI"
+    },
+    "certificacoes": [],
+    "cursos": [
+      "Machine Learning (Coursera - Andrew Ng, 2024)"
+    ],
+    "idiomas": [
+      "Inglês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Classificador de notícias falsas",
+        "descricao": "Projeto de disciplina com TF-IDF e regressão logística (acurácia de 87%)."
+      },
+      {
+        "titulo": "Chatbot da atlética",
+        "descricao": "Bot no Telegram com respostas sobre eventos usando API de LLM."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Estagiário",
+      "anos_experiencia_aprox": 1,
+      "maior_formacao_concluida": "Graduação em andamento",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "layout simples de coluna única (caso fácil)"
+      ]
+    }
+  },
+  {
+    "id": "14",
+    "arquivo": "14_camila_haddad_rezende.pdf",
+    "formato": "pdf",
+    "layout": "exec (p2)",
+    "nome": "Camila Haddad Rezende",
+    "titulo": "Product Manager de Inteligência Artificial",
+    "cidade": "São Paulo - SP",
+    "telefone": "(11) 97455-3018",
+    "email": "camila.rezende@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Product manager com 9 anos de experiência em produtos digitais, sendo 3 em produtos baseados em IA. Responsável por discovery, definição de métricas e priorização de roadmap de funcionalidades com LLMs. Não atua diretamente com programação.",
+    "experiencias": [
+      {
+        "cargo": "Product Manager de IA",
+        "empresa": "Recrutei Plataforma de RH",
+        "periodo": "06/2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022-06",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Lançamento de funcionalidade de triagem automática de currículos usada por 300 empresas.",
+          "Definição de métricas de qualidade e processo de revisão humana das recomendações.",
+          "Condução de entrevistas com recrutadores para priorização do roadmap."
+        ]
+      },
+      {
+        "cargo": "Product Owner",
+        "empresa": "Marketplace Casa & Cia",
+        "periodo": "03/2018 - 05/2022",
+        "periodo_normalizado": {
+          "inicio": "2018-03",
+          "fim": "2022-05"
+        },
+        "atividades": [
+          "Gestão de backlog do time de checkout, com aumento de 9% na conversão.",
+          "Coordenação de testes A/B com a equipe de dados."
+        ]
+      },
+      {
+        "cargo": "Analista de Negócios",
+        "empresa": "Consultoria Prisma Estratégia",
+        "periodo": "01/2016 - 02/2018",
+        "periodo_normalizado": {
+          "inicio": "2016-01",
+          "fim": "2018-02"
+        },
+        "atividades": [
+          "Mapeamento de processos e levantamento de requisitos para clientes do varejo."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Produtos Digitais",
+        "instituicao": "Fundação Instituto de Administração (FIA)",
+        "periodo": "2020 - 2021",
+        "periodo_normalizado": {
+          "inicio": "2020",
+          "fim": "2021"
+        }
+      },
+      {
+        "curso": "Bacharelado em Administração",
+        "instituicao": "Fundação Getulio Vargas (FGV-EAESP)",
+        "periodo": "2011 - 2015",
+        "periodo_normalizado": {
+          "inicio": "2011",
+          "fim": "2015"
+        }
+      }
+    ],
+    "competencias": {
+      "Produto": "Discovery, OKRs, roadmap, métricas de produto",
+      "IA": "Avaliação de LLMs, prompt design, noções de RAG",
+      "Ferramentas": "Jira, Figma, Amplitude, SQL básico"
+    },
+    "certificacoes": [
+      "Certified Scrum Product Owner - CSPO (2019)"
+    ],
+    "cursos": [
+      "AI for Product Managers (curso livre, 2023)"
+    ],
+    "idiomas": [
+      "Inglês: fluente",
+      "Árabe: básico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Triagem inteligente de candidatos",
+        "descricao": "Produto de IA que reduziu em 45% o tempo de triagem dos clientes."
+      },
+      {
+        "titulo": "Programa de IA responsável",
+        "descricao": "Política interna de transparência e revisão de vieses em recomendações."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 9,
+      "maior_formacao_concluida": "Especialização/MBA",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "texto com espaçamento entre letras (nome e empresas podem sair como 'F E R N A N DA')",
+        "competências em etiquetas dentro de quadros"
+      ]
+    }
+  },
+  {
+    "id": "15",
+    "arquivo": "15_bruno_henrique_schmidt.docx",
+    "formato": "docx",
+    "layout": "cobalt (green)",
+    "nome": "Bruno Henrique Schmidt",
+    "titulo": "Engenheiro de Dados Sênior | Databricks e Spark",
+    "cidade": "Blumenau - SC",
+    "telefone": "47 99231-6650",
+    "email": "bruno.schmidt@exemplo.com",
+    "link": "linkedin.com/in/bruno-schmidt-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheiro de dados com 10 anos de experiência na construção de plataformas de dados em larga escala. Experiência recente na preparação de dados para modelos de machine learning e no suporte a projetos de IA generativa.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de Dados Sênior",
+        "empresa": "Têxtil Vale Europeu",
+        "periodo": "2021 - 2025 (atual)",
+        "periodo_normalizado": {
+          "inicio": "2021",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Arquitetura de lakehouse com Databricks atendendo 12 áreas de negócio.",
+          "Pipelines de dados para modelos de previsão de demanda.",
+          "Ingestão de documentos fiscais para projeto piloto de extração com LLM."
+        ]
+      },
+      {
+        "cargo": "Engenheiro de Dados",
+        "empresa": "Software Blu Ltda.",
+        "periodo": "2017 - 2021",
+        "periodo_normalizado": {
+          "inicio": "2017",
+          "fim": "2021"
+        },
+        "atividades": [
+          "Migração de data warehouse on-premises para Azure.",
+          "Implantação de orquestração com Airflow."
+        ]
+      },
+      {
+        "cargo": "Analista de Banco de Dados",
+        "empresa": "Cooperativa de Crédito Sul",
+        "periodo": "2015 - 2017",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2017"
+        },
+        "atividades": [
+          "Administração de bancos Oracle e SQL Server."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Engenharia de Dados",
+        "instituicao": "Universidade Regional de Blumenau (FURB)",
+        "periodo": "2018 - 2019",
+        "periodo_normalizado": {
+          "inicio": "2018",
+          "fim": "2019"
+        }
+      },
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Regional de Blumenau (FURB)",
+        "periodo": "2011 - 2014",
+        "periodo_normalizado": {
+          "inicio": "2011",
+          "fim": "2014"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Scala, SQL",
+      "Plataformas": "Databricks, Spark, Delta Lake, Airflow",
+      "Cloud": "Azure (Data Factory, Synapse), AWS S3",
+      "Outros": "dbt, Kafka, Terraform"
+    },
+    "certificacoes": [
+      "Databricks Certified Data Engineer Professional (2023)",
+      "Microsoft Certified: Azure Data Engineer Associate (2021)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: avançado",
+      "Alemão: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Lakehouse corporativo",
+        "descricao": "Consolidação de 40 fontes de dados com governança via Unity Catalog."
+      },
+      {
+        "titulo": "Piloto de extração de notas fiscais",
+        "descricao": "Ingestão de XML e PDF de notas para avaliação de modelos de linguagem."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 10,
+      "maior_formacao_concluida": "Especialização/MBA",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX",
+        "competências em grade de células",
+        "período exibido como 'início' + 'até fim'"
+      ]
+    }
+  },
+  {
+    "id": "16",
+    "arquivo": "16_aline_cristina_moura_batista.docx",
+    "formato": "docx",
+    "layout": "lattes (wine)",
+    "nome": "Aline Cristina Moura Batista",
+    "titulo": "Linguista Computacional | Doutora em Linguística",
+    "cidade": "Rio de Janeiro - RJ",
+    "telefone": "(21) 98760-1145",
+    "email": "aline.batista@exemplo.com",
+    "link": "lattes.cnpq.br/0000000000000000",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Doutora em Linguística com foco em processamento de linguagem natural para o português. Experiência na construção de corpora anotados, avaliação de modelos de linguagem e desenvolvimento de recursos léxicos. Programação em Python voltada a pesquisa.",
+    "experiencias": [
+      {
+        "cargo": "Linguista Computacional",
+        "empresa": "Instituto Fala Brasil de Tecnologia",
+        "periodo": "2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Coordenação da anotação de corpus com 1 milhão de tokens para reconhecimento de entidades.",
+          "Avaliação de modelos de linguagem em tarefas de compreensão de texto em português.",
+          "Elaboração de diretrizes de anotação e cálculo de concordância entre anotadores."
+        ]
+      },
+      {
+        "cargo": "Pesquisadora Bolsista",
+        "empresa": "Universidade Federal do Rio de Janeiro (UFRJ)",
+        "periodo": "2018 - 2022",
+        "periodo_normalizado": {
+          "inicio": "2018",
+          "fim": "2022"
+        },
+        "atividades": [
+          "Desenvolvimento de recursos léxicos para análise de sentimentos.",
+          "Docência em disciplina de Linguística Computacional na graduação."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Doutorado em Linguística",
+        "instituicao": "Universidade Federal do Rio de Janeiro (UFRJ)",
+        "periodo": "2018 - 2022",
+        "periodo_normalizado": {
+          "inicio": "2018",
+          "fim": "2022"
+        }
+      },
+      {
+        "curso": "Mestrado em Linguística",
+        "instituicao": "Universidade Federal do Rio de Janeiro (UFRJ)",
+        "periodo": "2016 - 2018",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2018"
+        }
+      },
+      {
+        "curso": "Licenciatura em Letras - Português/Inglês",
+        "instituicao": "Universidade do Estado do Rio de Janeiro (UERJ)",
+        "periodo": "2011 - 2015",
+        "periodo_normalizado": {
+          "inicio": "2011",
+          "fim": "2015"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, R",
+      "PLN": "spaCy, NLTK, Hugging Face Transformers, anotação de corpus",
+      "Pesquisa": "Linguística de corpus, morfossintaxe, avaliação de modelos",
+      "Ferramentas": "INCEpTION, Git, LaTeX"
+    },
+    "certificacoes": [],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: fluente",
+      "Francês: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "Corpus PorNER-Saúde",
+        "descricao": "Corpus anotado de textos clínicos para reconhecimento de entidades em português."
+      },
+      {
+        "titulo": "Léxico de sentimentos",
+        "descricao": "Recurso com 12 mil termos avaliados por especialistas."
+      }
+    ],
+    "publicacoes": [
+      "BATISTA, A. C. M.; FERRAZ, T. Anotação de entidades em textos clínicos em português. Linguamática, v. 15, 2023.",
+      "BATISTA, A. C. M. et al. Evaluating large language models on Brazilian Portuguese reading comprehension. Proceedings of PROPOR, 2024.",
+      "BATISTA, A. C. M.; LIMA, R. Um léxico de sentimentos para o português brasileiro. Revista de Estudos da Linguagem, v. 29, 2021."
+    ],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 7,
+      "maior_formacao_concluida": "Doutorado",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "documento de 2 páginas",
+        "tabelas sem borda para datas",
+        "lista numerada de publicações"
+      ]
+    }
+  },
+  {
+    "id": "17",
+    "arquivo": "17_rodrigo_fagundes_lopes.pdf",
+    "formato": "pdf",
+    "layout": "years",
+    "nome": "Rodrigo Fagundes Lopes",
+    "titulo": "Desenvolvedor Front-end | React e TypeScript",
+    "cidade": "Porto Alegre - RS",
+    "telefone": "(51) 98144-0923",
+    "email": "rodrigo.lopes@exemplo.com",
+    "link": "rodrigolopes.dev (portfólio fictício)",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Desenvolvedor front-end com 6 anos de experiência em aplicações web responsivas e acessíveis. Experiência na construção de interfaces para produtos com IA, como chats e painéis de revisão, sem atuação direta em modelos.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor Front-end Pleno",
+        "empresa": "Gaúcha Software House",
+        "periodo": "2021 – atual",
+        "periodo_normalizado": {
+          "inicio": "2021",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenvolvimento de interface de chat com streaming de respostas para assistente de IA.",
+          "Criação de biblioteca de componentes usada por 4 produtos.",
+          "Melhoria de 35 pontos no Lighthouse de performance."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedor Front-end Júnior",
+        "empresa": "Agência Pampa Digital",
+        "periodo": "2019 – 2021",
+        "periodo_normalizado": {
+          "inicio": "2019",
+          "fim": "2021"
+        },
+        "atividades": [
+          "Sites institucionais e landing pages para clientes de varejo."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Sistemas para Internet",
+        "instituicao": "Instituto Federal do Rio Grande do Sul (IFRS)",
+        "periodo": "2016 – 2019",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2019"
+        }
+      }
+    ],
+    "competencias": {
+      "Front-end": "React, Next.js, TypeScript, Tailwind CSS",
+      "Testes": "Jest, Testing Library, Cypress",
+      "Outros": "Figma, Storybook, acessibilidade (WCAG)"
+    },
+    "certificacoes": [
+      "Meta Front-End Developer Professional Certificate (2022)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "Interface de revisão de documentos",
+        "descricao": "Tela para revisão humana de dados extraídos, com destaque de trechos no PDF."
+      },
+      {
+        "titulo": "Design system Pampa",
+        "descricao": "Biblioteca de componentes acessíveis em React."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 6,
+      "maior_formacao_concluida": "Graduação tecnológica",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "ano de início em destaque separado do período completo",
+        "competências em faixa horizontal"
+      ]
+    }
+  },
+  {
+    "id": "18",
+    "arquivo": "18_vanessa_kelly_araujo.docx",
+    "formato": "docx",
+    "layout": "plainbr",
+    "nome": "Vanessa Kelly Araújo",
+    "titulo": "Analista de Business Intelligence",
+    "cidade": "Fortaleza - CE",
+    "telefone": "(85) 98877-3402",
+    "email": "vanessa.araujo@exemplo.com",
+    "link": null,
+    "dados_pessoais": {
+      "Nacionalidade": "Brasileira",
+      "Estado civil": "Casada",
+      "Data de nascimento": "14/09/1992"
+    },
+    "objetivo": "Atuar como Engenheira de IA, aplicando minha experiência com dados e indicadores em projetos de inteligência artificial.",
+    "resumo": "Analista de BI com 6 anos de experiência em modelagem de dados, construção de dashboards e indicadores de desempenho. Iniciando estudos em Python e aprendizado de máquina.",
+    "experiencias": [
+      {
+        "cargo": "Analista de BI Pleno",
+        "empresa": "Rede Nordeste de Farmácias",
+        "periodo": "Março de 2021 até o momento",
+        "periodo_normalizado": {
+          "inicio": "2021-03",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenvolvimento de 40 painéis de vendas, estoque e metas em Power BI.",
+          "Modelagem de data mart comercial em SQL Server.",
+          "Treinamento de gestores no uso dos relatórios."
+        ]
+      },
+      {
+        "cargo": "Analista de Dados Júnior",
+        "empresa": "Call Center Atende Bem",
+        "periodo": "Janeiro de 2019 a Fevereiro de 2021",
+        "periodo_normalizado": {
+          "inicio": "2019-01",
+          "fim": "2021-02"
+        },
+        "atividades": [
+          "Relatórios de produtividade e qualidade de atendimento.",
+          "Automação de planilhas com macros VBA."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Gestão da Tecnologia da Informação",
+        "instituicao": "Faculdade Estácio do Ceará",
+        "periodo": "2014 - 2016",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2016"
+        }
+      }
+    ],
+    "competencias": {
+      "BI": "Power BI, DAX, Qlik Sense",
+      "Dados": "SQL Server, Excel avançado, modelagem dimensional",
+      "Em aprendizado": "Python, Pandas, scikit-learn"
+    },
+    "certificacoes": [
+      "Microsoft Certified: Power BI Data Analyst Associate (2022)"
+    ],
+    "cursos": [
+      "Python para Análise de Dados (curso online, 2024)",
+      "Introdução à Inteligência Artificial (curso online, 2025)"
+    ],
+    "idiomas": [
+      "Inglês: básico"
+    ],
+    "projetos": [],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 6,
+      "maior_formacao_concluida": "Graduação tecnológica",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "modelo tradicional brasileiro com rótulos (Empresa/Cargo/Período)",
+        "datas por extenso",
+        "dados pessoais (estado civil, idade)"
+      ]
+    }
+  },
+  {
+    "id": "19",
+    "arquivo": "19_felipe_augusto_cardoso.pdf",
+    "formato": "pdf",
+    "layout": "magazine",
+    "nome": "Felipe Augusto Cardoso",
+    "titulo": "Head de Inteligência Artificial | Doutor em Computação",
+    "cidade": "São José dos Campos - SP",
+    "telefone": "(12) 99702-5519",
+    "email": "felipe.cardoso@exemplo.com",
+    "link": "linkedin.com/in/felipe-cardoso-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Líder técnico com 15 anos de experiência em aprendizado de máquina, incluindo cofundação de startup de IA. Construiu e liderou equipes de até 25 pessoas em pesquisa aplicada, engenharia de ML e produtos com LLMs. Perfil sênior com atuação executiva e técnica.",
+    "experiencias": [
+      {
+        "cargo": "Head de Inteligência Artificial",
+        "empresa": "Aeroespaço Dados S.A.",
+        "periodo": "2021 – atual",
+        "periodo_normalizado": {
+          "inicio": "2021",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Liderança de 25 profissionais em ciência de dados, engenharia de ML e IA generativa.",
+          "Definição da estratégia corporativa de IA com 8 produtos em produção.",
+          "Implantação de plataforma interna de LLMs com controle de custos e governança."
+        ]
+      },
+      {
+        "cargo": "Cofundador e CTO",
+        "empresa": "Leitura Inteligente Tecnologia (startup)",
+        "periodo": "2016 – 2021",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2021"
+        },
+        "atividades": [
+          "Construção de produto de extração de dados de documentos financeiros adquirido por grupo nacional.",
+          "Captação de duas rodadas de investimento."
+        ]
+      },
+      {
+        "cargo": "Pesquisador em Aprendizado de Máquina",
+        "empresa": "Instituto Tecnológico de Aeronáutica (ITA)",
+        "periodo": "2010 – 2016",
+        "periodo_normalizado": {
+          "inicio": "2010",
+          "fim": "2016"
+        },
+        "atividades": [
+          "Pesquisa em redes neurais e orientação de alunos de mestrado."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Doutorado em Engenharia Eletrônica e Computação",
+        "instituicao": "Instituto Tecnológico de Aeronáutica (ITA)",
+        "periodo": "2010 – 2014",
+        "periodo_normalizado": {
+          "inicio": "2010",
+          "fim": "2014"
+        }
+      },
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "Instituto Tecnológico de Aeronáutica (ITA)",
+        "periodo": "2004 – 2008",
+        "periodo_normalizado": {
+          "inicio": "2004",
+          "fim": "2008"
+        }
+      }
+    ],
+    "competencias": {
+      "Liderança": "Gestão de equipes de IA, estratégia de produto, contratação",
+      "Técnico": "Python, PyTorch, LLMs, sistemas de recomendação",
+      "Arquitetura": "Plataformas de ML, RAG em larga escala, avaliação de modelos"
+    },
+    "certificacoes": [],
+    "cursos": [
+      "Executive Program in AI Strategy (curso executivo, 2022)"
+    ],
+    "idiomas": [
+      "Inglês: fluente",
+      "Espanhol: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma corporativa de LLMs",
+        "descricao": "Gateway único com roteamento de modelos, cache e trilha de auditoria."
+      },
+      {
+        "titulo": "Leitura Inteligente",
+        "descricao": "Produto de IDP com mais de 100 clientes até a aquisição."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Especialista",
+      "anos_experiencia_aprox": 15,
+      "maior_formacao_concluida": "Doutorado",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "nome e resumo em blocos lado a lado",
+        "corpo em duas colunas com divisória"
+      ]
+    }
+  },
+  {
+    "id": "20",
+    "arquivo": "20_isabela_fontes_guimaraes.pdf",
+    "formato": "pdf",
+    "layout": "teal (p2)",
+    "nome": "Isabela Fontes Guimarães",
+    "titulo": "Cientista de Dados Júnior | Transição da Biologia",
+    "cidade": "Brasília - DF",
+    "telefone": "(61) 99135-8807",
+    "email": "isabela.guimaraes@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Bióloga em transição de carreira para ciência de dados, com 2 anos de experiência na área. Experiência com análise de dados genômicos e modelos de classificação. Concluí bootcamp intensivo e tenho projetos com LLMs para extração de informações de artigos científicos.",
+    "experiencias": [
+      {
+        "cargo": "Cientista de Dados Júnior",
+        "empresa": "HealthData Brasília",
+        "periodo": "04/2024 - atual",
+        "periodo_normalizado": {
+          "inicio": "2024-04",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Modelos de classificação de risco de readmissão hospitalar.",
+          "Extração de informações de prontuários com regras e modelos de linguagem.",
+          "Construção de aplicações de demonstração em Streamlit."
+        ]
+      },
+      {
+        "cargo": "Bióloga - Assistente de Pesquisa",
+        "empresa": "Laboratório de Genômica do Cerrado",
+        "periodo": "03/2021 - 03/2024",
+        "periodo_normalizado": {
+          "inicio": "2021-03",
+          "fim": "2024-03"
+        },
+        "atividades": [
+          "Análise estatística de dados de sequenciamento em R.",
+          "Automação de rotinas de bioinformática em Python."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bootcamp de Ciência de Dados",
+        "instituicao": "Tera (online)",
+        "periodo": "2023",
+        "periodo_normalizado": {
+          "inicio": "2023",
+          "fim": "2023"
+        }
+      },
+      {
+        "curso": "Bacharelado em Ciências Biológicas",
+        "instituicao": "Universidade de Brasília (UnB)",
+        "periodo": "2016 - 2020",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2020"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, R, SQL",
+      "ML": "scikit-learn, XGBoost, Hugging Face (básico)",
+      "Ferramentas": "Git, Streamlit, Docker (básico)"
+    },
+    "certificacoes": [],
+    "cursos": [
+      "Introduction to LLMs (curso livre, 2024)"
+    ],
+    "idiomas": [
+      "Inglês: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "Extrator de dados de artigos",
+        "descricao": "Uso de LLM para extrair espécie, método e resultado de 500 artigos científicos."
+      },
+      {
+        "titulo": "Painel de biodiversidade",
+        "descricao": "Aplicação Streamlit com dados abertos do Cerrado."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Júnior",
+      "anos_experiencia_aprox": 2,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "barra lateral com contato e competências separada do corpo",
+        "competências em etiquetas"
+      ]
+    }
+  },
+  {
+    "id": "21",
+    "arquivo": "21_marcos_vinicius_oliveira.docx",
+    "formato": "docx",
+    "layout": "bars",
+    "nome": "Marcos Vinícius Oliveira",
+    "titulo": "Chef de Cozinha | Gastronomia Contemporânea",
+    "cidade": "Belo Horizonte - MG",
+    "telefone": "(31) 99412-6630",
+    "email": "chef.marcos@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Chef de cozinha com 12 anos de experiência em restaurantes de alta gastronomia e eventos. Responsável por criação de cardápios, gestão de brigada de cozinha, controle de custos e padronização de fichas técnicas.",
+    "experiencias": [
+      {
+        "cargo": "Chef Executivo",
+        "empresa": "Restaurante Sabores das Gerais",
+        "periodo": "2019 - atual",
+        "periodo_normalizado": {
+          "inicio": "2019",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Criação de cardápios sazonais com ingredientes regionais.",
+          "Gestão de equipe de 14 cozinheiros e auxiliares.",
+          "Redução de 12% no custo de mercadoria vendida."
+        ]
+      },
+      {
+        "cargo": "Sub-chef",
+        "empresa": "Hotel Serra Azul",
+        "periodo": "2015 - 2019",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2019"
+        },
+        "atividades": [
+          "Coordenação da produção para banquetes de até 400 pessoas.",
+          "Treinamento de novos cozinheiros."
+        ]
+      },
+      {
+        "cargo": "Cozinheiro",
+        "empresa": "Bistrô Rua da Bahia",
+        "periodo": "2013 - 2015",
+        "periodo_normalizado": {
+          "inicio": "2013",
+          "fim": "2015"
+        },
+        "atividades": [
+          "Preparo de pratos da praça quente."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Gastronomia",
+        "instituicao": "Centro Universitário UNA",
+        "periodo": "2010 - 2012",
+        "periodo_normalizado": {
+          "inicio": "2010",
+          "fim": "2012"
+        }
+      }
+    ],
+    "competencias": {
+      "Cozinha": "Cozinha contemporânea brasileira, confeitaria, técnicas de cocção",
+      "Gestão": "Liderança de brigada, controle de CMV, compras",
+      "Segurança alimentar": "Boas práticas, APPCC"
+    },
+    "certificacoes": [
+      "Curso de Boas Práticas de Manipulação de Alimentos (2021)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Espanhol: intermediário",
+      "Italiano: básico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Festival Gastronômico Mineiro",
+        "descricao": "Chef convidado na edição de 2023."
+      },
+      {
+        "titulo": "Cardápio de alimentação escolar",
+        "descricao": "Consultoria para prefeitura com foco em ingredientes locais."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 12,
+      "maior_formacao_concluida": "Graduação tecnológica",
+      "aderencia_vaga": "fora_de_contexto",
+      "fora_de_contexto": true,
+      "dificuldades_extracao": [
+        "títulos de seção como faixas sombreadas",
+        "competências e certificações em tabelas DOCX"
+      ]
+    }
+  },
+  {
+    "id": "22",
+    "arquivo": "22_renata_yumi_sato.pdf",
+    "formato": "pdf",
+    "layout": "swiss (p2)",
+    "nome": "Renata Yumi Sato",
+    "titulo": "Engenheira de MLOps | Plataformas de IA",
+    "cidade": "Campinas - SP",
+    "telefone": "(19) 99766-2381",
+    "email": "renata.sato@exemplo.com",
+    "link": "github.com/renatasato-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheira de MLOps com 7 anos de experiência na construção de plataformas para treinamento, avaliação e implantação de modelos. Recentemente responsável pela infraestrutura de serviços com LLMs, incluindo observabilidade, controle de custos e avaliação automática.",
+    "experiencias": [
+      {
+        "cargo": "Engenheira de MLOps Sênior",
+        "empresa": "Agrotech Campinas",
+        "periodo": "09/2021 – atual",
+        "periodo_normalizado": {
+          "inicio": "2021-09",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Plataforma de implantação de modelos usada por 6 times de dados.",
+          "Infraestrutura de serving de LLMs com vLLM e escalonamento por GPU.",
+          "Pipeline de avaliação automática de respostas antes de cada publicação."
+        ]
+      },
+      {
+        "cargo": "Engenheira de ML",
+        "empresa": "Telecom Paulista S.A.",
+        "periodo": "01/2018 – 08/2021",
+        "periodo_normalizado": {
+          "inicio": "2018-01",
+          "fim": "2021-08"
+        },
+        "atividades": [
+          "Modelos de previsão de churn em produção com monitoramento de drift.",
+          "Automação de retreinamento mensal."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Engenharia Elétrica (Computação)",
+        "instituicao": "Universidade Estadual de Campinas (UNICAMP)",
+        "periodo": "2016 – 2018",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2018"
+        }
+      },
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "Universidade Estadual de Campinas (UNICAMP)",
+        "periodo": "2011 – 2015",
+        "periodo_normalizado": {
+          "inicio": "2011",
+          "fim": "2015"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Go, Bash",
+      "MLOps": "MLflow, Kubeflow, BentoML, Weights & Biases",
+      "LLMOps": "LangSmith, vLLM, avaliação automática, guardrails",
+      "Infra": "GCP, Kubernetes, Terraform, ArgoCD"
+    },
+    "certificacoes": [
+      "Google Cloud Professional Machine Learning Engineer (2022)",
+      "Certified Kubernetes Administrator - CKA (2021)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: fluente",
+      "Japonês: básico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Gateway de LLMs",
+        "descricao": "Camada única de acesso a modelos com métricas de latência, custo e qualidade."
+      },
+      {
+        "titulo": "Feature store agrícola",
+        "descricao": "Compartilhamento de variáveis de clima e solo entre modelos."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 7,
+      "maior_formacao_concluida": "Mestrado",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "grade com rótulos de seção numerados na margem esquerda",
+        "competências em três colunas"
+      ]
+    }
+  },
+  {
+    "id": "23",
+    "arquivo": "23_paulo_roberto_nogueira.docx",
+    "formato": "docx",
+    "layout": "plainbr",
+    "nome": "Paulo Roberto Nogueira",
+    "titulo": "Professor de Matemática | Em transição para Ciência de Dados",
+    "cidade": "Juiz de Fora - MG",
+    "telefone": "(32) 98805-4127",
+    "email": "paulo.nogueira@exemplo.com",
+    "link": null,
+    "dados_pessoais": {
+      "Nacionalidade": "Brasileiro",
+      "Estado civil": "Divorciado",
+      "Idade": "51 anos",
+      "CNH": "Categoria B"
+    },
+    "objetivo": "Iniciar carreira na área de tecnologia, em vaga de inteligência artificial ou análise de dados.",
+    "resumo": "Professor de matemática com 25 anos de experiência no ensino médio e cursinhos pré-vestibulares. Forte base em estatística e álgebra linear. Estudando programação em Python e fundamentos de aprendizado de máquina por conta própria desde 2024.",
+    "experiencias": [
+      {
+        "cargo": "Professor de Matemática",
+        "empresa": "Colégio Estadual Mariano Procópio",
+        "periodo": "Fevereiro de 2003 até o momento",
+        "periodo_normalizado": {
+          "inicio": "2003-02",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Aulas de matemática para turmas do 1º ao 3º ano do ensino médio.",
+          "Coordenação da olimpíada de matemática da escola."
+        ]
+      },
+      {
+        "cargo": "Professor de Matemática",
+        "empresa": "Cursinho Pré-Vestibular Aprova JF",
+        "periodo": "Março de 2000 a Dezembro de 2015",
+        "periodo_normalizado": {
+          "inicio": "2000-03",
+          "fim": "2015-12"
+        },
+        "atividades": [
+          "Preparação de alunos para vestibulares e ENEM.",
+          "Elaboração de apostilas de matemática."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Especialização em Educação Matemática",
+        "instituicao": "Universidade Federal de Juiz de Fora (UFJF)",
+        "periodo": "2004 - 2005",
+        "periodo_normalizado": {
+          "inicio": "2004",
+          "fim": "2005"
+        }
+      },
+      {
+        "curso": "Licenciatura em Matemática",
+        "instituicao": "Universidade Federal de Juiz de Fora (UFJF)",
+        "periodo": "1995 - 1999",
+        "periodo_normalizado": {
+          "inicio": "1995",
+          "fim": "1999"
+        }
+      }
+    ],
+    "competencias": {
+      "Matemática": "Estatística, álgebra linear, cálculo",
+      "Tecnologia": "Python (básico), Excel, GeoGebra",
+      "Comportamentais": "Didática, comunicação, organização"
+    },
+    "certificacoes": [],
+    "cursos": [
+      "Python para Iniciantes (curso online, 2024)",
+      "Estatística com Python (curso online, 2025)"
+    ],
+    "idiomas": [
+      "Inglês: básico"
+    ],
+    "projetos": [],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Júnior (transição)",
+      "anos_experiencia_aprox": 0,
+      "maior_formacao_concluida": "Especialização/MBA",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "modelo tradicional brasileiro com rótulos (Empresa/Cargo/Período)",
+        "datas por extenso",
+        "dados pessoais (estado civil, idade)"
+      ]
+    }
+  },
+  {
+    "id": "24",
+    "arquivo": "24_beatriz_helena_costa_silva.pdf",
+    "formato": "pdf",
+    "layout": "europass",
+    "nome": "Beatriz Helena Costa e Silva",
+    "titulo": "Engenheira de Software Back-end Sênior | Java",
+    "cidade": "Florianópolis - SC",
+    "telefone": "+55 (48) 99620-1173",
+    "email": "beatriz.costasilva@exemplo.com",
+    "link": "linkedin.com/in/beatriz-costa-silva-fict",
+    "dados_pessoais": {
+      "Nacionalidade": "Brasileira e portuguesa",
+      "Data de nascimento": "02/05/1989"
+    },
+    "objetivo": null,
+    "resumo": "Engenheira de software com 11 anos de experiência em sistemas distribuídos de alta disponibilidade em Java. Experiência com arquitetura de microsserviços e mensageria. Contato pontual com IA através da integração de APIs de modelos de linguagem.",
+    "experiencias": [
+      {
+        "cargo": "Engenheira de Software Sênior",
+        "empresa": "Ilha Pagamentos S.A.",
+        "periodo": "08.2019 – presente",
+        "periodo_normalizado": {
+          "inicio": "2019-08",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenho de arquitetura de microsserviços para processamento de 5 milhões de transações diárias.",
+          "Integração de API de LLM para classificação de chamados de suporte.",
+          "Mentoria técnica de 6 desenvolvedores."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedora Java Pleno",
+        "empresa": "Software Catarina Ltda.",
+        "periodo": "03.2016 – 07.2019",
+        "periodo_normalizado": {
+          "inicio": "2016-03",
+          "fim": "2019-07"
+        },
+        "atividades": [
+          "Desenvolvimento de sistemas de gestão hospitalar."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedora Java Júnior",
+        "empresa": "TI Litoral Serviços",
+        "periodo": "01.2014 – 02.2016",
+        "periodo_normalizado": {
+          "inicio": "2014-01",
+          "fim": "2016-02"
+        },
+        "atividades": [
+          "Manutenção de sistemas legados em Java EE."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade Federal de Santa Catarina (UFSC)",
+        "periodo": "2009 – 2013",
+        "periodo_normalizado": {
+          "inicio": "2009",
+          "fim": "2013"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Java, Kotlin, SQL",
+      "Frameworks": "Spring Boot, Quarkus, Hibernate",
+      "Arquitetura": "Microsserviços, mensageria (Kafka, RabbitMQ), DDD",
+      "Infra": "AWS, Docker, Kubernetes"
+    },
+    "certificacoes": [
+      "Oracle Certified Professional: Java SE 11 Developer (2020)",
+      "AWS Certified Solutions Architect - Associate (2022)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: fluente",
+      "Português: nativo"
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de conciliação",
+        "descricao": "Sistema de conciliação financeira com tolerância a falhas."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 11,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "rótulos de seção e períodos em coluna separada à esquerda",
+        "idiomas em tabela"
+      ]
+    }
+  },
+  {
+    "id": "25",
+    "arquivo": "25_matheus_gabriel_freitas.pdf",
+    "formato": "pdf",
+    "layout": "dev (p2)",
+    "nome": "Matheus Gabriel Freitas",
+    "titulo": "Desenvolvedor Python | Projetos com LLMs",
+    "cidade": "Natal - RN",
+    "telefone": "(84) 99187-2264",
+    "email": "matheus.freitas@exemplo.com",
+    "link": "github.com/mgfreitas-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Desenvolvedor Python com 4 anos de experiência em APIs e automações. Nos últimos 18 meses, desenvolvi projetos com LLMs em produção, incluindo agentes para atendimento e extração de dados de boletos e notas fiscais.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor Python Pleno",
+        "empresa": "Potiguar Fintech",
+        "periodo": "07/2023 - atual",
+        "periodo_normalizado": {
+          "inicio": "2023-07",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Agente de atendimento com LangGraph integrado a sistemas internos.",
+          "Extração de dados de boletos e notas em PDF com validação de campos obrigatórios.",
+          "Redução de 50% em chamados manuais de segunda via."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedor Python Júnior",
+        "empresa": "Sertão Software",
+        "periodo": "02/2021 - 06/2023",
+        "periodo_normalizado": {
+          "inicio": "2021-02",
+          "fim": "2023-06"
+        },
+        "atividades": [
+          "APIs em Django para sistema de gestão de cooperativas.",
+          "Rotinas de integração com ERPs via filas."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Instituto Federal do Rio Grande do Norte (IFRN)",
+        "periodo": "2018 - 2020",
+        "periodo_normalizado": {
+          "inicio": "2018",
+          "fim": "2020"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, SQL, JavaScript",
+      "Back-end": "FastAPI, Django, Celery, Redis",
+      "IA": "OpenAI API, LangChain, LangGraph, ChromaDB",
+      "Infra": "Docker, AWS Lambda, GitHub Actions"
+    },
+    "certificacoes": [
+      "AWS Certified Developer - Associate (2023)"
+    ],
+    "cursos": [
+      "LangChain for LLM Application Development (DeepLearning.AI, 2023)"
+    ],
+    "idiomas": [
+      "Inglês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Agente de segunda via",
+        "descricao": "Agente que identifica o cliente, consulta o débito e envia o boleto."
+      },
+      {
+        "titulo": "Extrator de notas fiscais",
+        "descricao": "Leitura de DANFE em PDF com LLM e conferência com XML."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 4,
+      "maior_formacao_concluida": "Graduação tecnológica",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "competências escritas como código",
+        "rótulos de contato em inglês abreviado (tel, git)"
+      ]
+    }
+  },
+  {
+    "id": "26",
+    "arquivo": "26_natalia_ribeiro_peixoto.docx",
+    "formato": "docx",
+    "layout": "lattes",
+    "nome": "Natália Ribeiro Peixoto",
+    "titulo": "Pesquisadora em Processamento de Linguagem Natural",
+    "cidade": "São Carlos - SP",
+    "telefone": "(16) 99245-3378",
+    "email": "natalia.peixoto@exemplo.com",
+    "link": "orcid.org/0000-0000-0000-000X",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Doutora em Ciências de Computação com foco em processamento de linguagem natural e extração de informação. Experiência em pesquisa acadêmica e em projetos com a indústria envolvendo modelos de linguagem para documentos em português. Busca transição para atuação em engenharia de IA aplicada.",
+    "experiencias": [
+      {
+        "cargo": "Pesquisadora de Pós-Doutorado",
+        "empresa": "Universidade de São Paulo (ICMC-USP)",
+        "periodo": "03/2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022-03",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Coordenação de projeto com empresa de seguros para extração de dados de apólices com LLMs.",
+          "Desenvolvimento de modelos de NER para documentos administrativos.",
+          "Coorientação de 3 alunos de mestrado."
+        ]
+      },
+      {
+        "cargo": "Cientista de Dados (projeto de cooperação)",
+        "empresa": "Instituto de Inovação Paulista",
+        "periodo": "06/2020 - 02/2022",
+        "periodo_normalizado": {
+          "inicio": "2020-06",
+          "fim": "2022-02"
+        },
+        "atividades": [
+          "Classificação de petições judiciais com modelos BERT em português."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Doutorado em Ciências de Computação e Matemática Computacional",
+        "instituicao": "Universidade de São Paulo (ICMC-USP)",
+        "periodo": "2017 - 2021",
+        "periodo_normalizado": {
+          "inicio": "2017",
+          "fim": "2021"
+        }
+      },
+      {
+        "curso": "Mestrado em Ciências de Computação",
+        "instituicao": "Universidade de São Paulo (ICMC-USP)",
+        "periodo": "2015 - 2017",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2017"
+        }
+      },
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade Federal de Viçosa (UFV)",
+        "periodo": "2010 - 2014",
+        "periodo_normalizado": {
+          "inicio": "2010",
+          "fim": "2014"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Java",
+      "PLN e LLMs": "PyTorch, Transformers, fine-tuning, extração de informação, NER",
+      "Avaliação": "Métricas de extração, anotação, testes estatísticos",
+      "Infra": "Linux, Slurm, Docker"
+    },
+    "certificacoes": [],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: fluente",
+      "Espanhol: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Extração de dados de apólices",
+        "descricao": "LLM com saída estruturada e verificação de consistência, F1 de 0,90."
+      },
+      {
+        "titulo": "Corpus de petições",
+        "descricao": "Conjunto com 10 mil petições anotadas por tipo e assunto."
+      }
+    ],
+    "publicacoes": [
+      "PEIXOTO, N. R.; ANDRADE, M. Structured information extraction from Portuguese documents with LLMs. Proceedings of PROPOR, 2024.",
+      "PEIXOTO, N. R. et al. Named entity recognition in Brazilian administrative documents. Language Resources and Evaluation, 2023.",
+      "PEIXOTO, N. R.; SOUZA, F. Classificação de petições judiciais com BERTimbau. Anais do STIL, 2021.",
+      "PEIXOTO, N. R.; ANDRADE, M. Few-shot extraction with prompt-based models. Workshop on Document Intelligence, 2022."
+    ],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 8,
+      "maior_formacao_concluida": "Doutorado",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "documento de 2 páginas",
+        "tabelas sem borda para datas",
+        "lista numerada de publicações"
+      ]
+    }
+  },
+  {
+    "id": "27",
+    "arquivo": "27_andre_luiz_monteiro.docx",
+    "formato": "docx",
+    "layout": "rightbar",
+    "nome": "André Luiz Monteiro",
+    "titulo": "Analista de Suporte Técnico N2",
+    "cidade": "Manaus - AM",
+    "telefone": "(92) 99104-5582",
+    "email": "andre.monteiro@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Analista de suporte com 7 anos de experiência em atendimento a usuários, administração de redes e manutenção de servidores Windows e Linux. Interesse em automação e ferramentas de IA para atendimento.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Suporte N2",
+        "empresa": "Polo Industrial Eletrônicos da Amazônia",
+        "periodo": "2020 – atual",
+        "periodo_normalizado": {
+          "inicio": "2020",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Atendimento de chamados de segundo nível para 800 usuários.",
+          "Administração de Active Directory e políticas de grupo.",
+          "Criação de scripts PowerShell para automação de rotinas."
+        ]
+      },
+      {
+        "cargo": "Técnico de Suporte N1",
+        "empresa": "Provedor Rio Negro Net",
+        "periodo": "2018 – 2020",
+        "periodo_normalizado": {
+          "inicio": "2018",
+          "fim": "2020"
+        },
+        "atividades": [
+          "Suporte a clientes de internet residencial e corporativa."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Técnico em Redes de Computadores",
+        "instituicao": "Instituto Federal do Amazonas (IFAM)",
+        "periodo": "2015 – 2017",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2017"
+        }
+      },
+      {
+        "curso": "Bacharelado em Sistemas de Informação (trancado)",
+        "instituicao": "Universidade do Estado do Amazonas (UEA)",
+        "periodo": "2018 – 2019",
+        "periodo_normalizado": {
+          "inicio": "2018",
+          "fim": "2019"
+        }
+      }
+    ],
+    "competencias": {
+      "Sistemas": "Windows Server, Linux (Ubuntu), Active Directory",
+      "Redes": "TCP/IP, VPN, firewall",
+      "Ferramentas": "GLPI, Zabbix, PowerShell"
+    },
+    "certificacoes": [
+      "CompTIA A+ (2019)",
+      "ITIL 4 Foundation (2021)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Base de conhecimento do suporte",
+        "descricao": "Organização de 300 artigos de solução para usuários."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 7,
+      "maior_formacao_concluida": "Curso técnico",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX",
+        "coluna lateral à direita"
+      ]
+    }
+  },
+  {
+    "id": "28",
+    "arquivo": "28_leticia_amaral_vasconcelos.pdf",
+    "formato": "pdf",
+    "layout": "editorial (p2)",
+    "nome": "Letícia Amaral Vasconcelos",
+    "titulo": "UX Designer | Produtos com Inteligência Artificial",
+    "cidade": "Rio de Janeiro - RJ",
+    "telefone": "(21) 99530-4418",
+    "email": "leticia.vasconcelos@exemplo.com",
+    "link": "behance.net/leticia-vasconcelos-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Designer de experiência do usuário com 6 anos de atuação em produtos digitais, sendo os últimos 2 dedicados a interfaces conversacionais e fluxos com IA generativa. Experiência em pesquisa com usuários, prototipação e definição de diretrizes de interação com assistentes.",
+    "experiencias": [
+      {
+        "cargo": "UX Designer Pleno",
+        "empresa": "Carioca Seguros Digital",
+        "periodo": "jan/2023 – atual",
+        "periodo_normalizado": {
+          "inicio": "2023-01",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenho do assistente virtual de sinistros com IA generativa.",
+          "Testes de usabilidade com 40 usuários e ajustes de tom de voz.",
+          "Diretrizes de transparência sobre uso de IA na interface."
+        ]
+      },
+      {
+        "cargo": "UI/UX Designer",
+        "empresa": "Estúdio Guanabara",
+        "periodo": "mar/2019 – dez/2022",
+        "periodo_normalizado": {
+          "inicio": "2019-03",
+          "fim": "2022-12"
+        },
+        "atividades": [
+          "Projetos de aplicativos para clientes de educação e saúde."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em UX Design",
+        "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)",
+        "periodo": "2020 – 2021",
+        "periodo_normalizado": {
+          "inicio": "2020",
+          "fim": "2021"
+        }
+      },
+      {
+        "curso": "Bacharelado em Design Gráfico",
+        "instituicao": "Escola Superior de Desenho Industrial (ESDI-UERJ)",
+        "periodo": "2014 – 2018",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2018"
+        }
+      }
+    ],
+    "competencias": {
+      "Design": "Figma, prototipação, design system, UX writing",
+      "Pesquisa": "Entrevistas, testes de usabilidade, análise heurística",
+      "IA": "Design conversacional, prompt design, avaliação qualitativa de respostas"
+    },
+    "certificacoes": [
+      "Google UX Design Certificate (2020)"
+    ],
+    "cursos": [
+      "Conversation Design (curso livre, 2023)"
+    ],
+    "idiomas": [
+      "Inglês: avançado",
+      "Italiano: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Assistente de sinistros",
+        "descricao": "Redução de 30% nas ligações para a central após lançamento."
+      },
+      {
+        "titulo": "Guia de interfaces com IA",
+        "descricao": "Documento interno com padrões para produtos generativos."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 6,
+      "maior_formacao_concluida": "Especialização/MBA",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "layout em duas colunas",
+        "períodos em coluna estreita podem quebrar e perder o hífen na extração"
+      ]
+    }
+  },
+  {
+    "id": "29",
+    "arquivo": "29_eduardo_kenji_watanabe.docx",
+    "formato": "docx",
+    "layout": "band (p2)",
+    "nome": "Eduardo Kenji Watanabe",
+    "titulo": "Engenheiro de Visão Computacional",
+    "cidade": "São José dos Campos - SP",
+    "telefone": "(12) 98233-9045",
+    "email": "eduardo.watanabe@exemplo.com",
+    "link": "github.com/ekwatanabe-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheiro com 9 anos de experiência em visão computacional e sistemas embarcados. Desenvolvimento de modelos de detecção e OCR para documentos e imagens industriais, com otimização para dispositivos de borda.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de Visão Computacional Sênior",
+        "empresa": "Vale do Paraíba Automação",
+        "periodo": "2020 - atual",
+        "periodo_normalizado": {
+          "inicio": "2020",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Sistema de OCR para leitura de etiquetas e documentos de embarque com acurácia de 98%.",
+          "Otimização de modelos com TensorRT para execução em tempo real.",
+          "Liderança técnica de 3 engenheiros."
+        ]
+      },
+      {
+        "cargo": "Engenheiro de Software Embarcado",
+        "empresa": "Sensores Aeroespaciais Ltda.",
+        "periodo": "2016 - 2020",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2020"
+        },
+        "atividades": [
+          "Desenvolvimento de firmware e processamento de imagens em C++."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Engenharia Eletrônica",
+        "instituicao": "Instituto Tecnológico de Aeronáutica (ITA)",
+        "periodo": "2014 - 2016",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2016"
+        }
+      },
+      {
+        "curso": "Bacharelado em Engenharia Elétrica",
+        "instituicao": "Universidade Estadual Paulista (UNESP)",
+        "periodo": "2009 - 2013",
+        "periodo_normalizado": {
+          "inicio": "2009",
+          "fim": "2013"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, C++, CUDA",
+      "Visão": "PyTorch, OpenCV, YOLO, OCR (PaddleOCR, Tesseract)",
+      "Otimização": "TensorRT, ONNX, quantização",
+      "Infra": "Docker, NVIDIA Jetson, Linux"
+    },
+    "certificacoes": [
+      "NVIDIA DLI - Fundamentals of Deep Learning (2021)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: avançado",
+      "Japonês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Leitura de documentos de embarque",
+        "descricao": "Detecção de campos e OCR em formulários impressos e manuscritos."
+      },
+      {
+        "titulo": "Inspeção visual de soldas",
+        "descricao": "Detecção de defeitos com YOLO em linha de produção."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 9,
+      "maior_formacao_concluida": "Mestrado",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX (duas colunas)"
+      ]
+    }
+  },
+  {
+    "id": "30",
+    "arquivo": "30_priscila_moreira_leal.pdf",
+    "formato": "pdf",
+    "layout": "ats (blue)",
+    "nome": "Priscila Moreira Leal",
+    "titulo": "Analista de Qualidade (QA) | Automação de Testes",
+    "cidade": "Belém - PA",
+    "telefone": "(91) 98450-7710",
+    "email": "priscila.leal@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Analista de QA com 6 anos de experiência em testes manuais e automatizados para aplicações web e APIs. Experiência recente na criação de casos de teste para respostas de chatbots com IA generativa.",
+    "experiencias": [
+      {
+        "cargo": "Analista de QA Pleno",
+        "empresa": "Amazônia Sistemas Integrados",
+        "periodo": "06/2021 a atual",
+        "periodo_normalizado": {
+          "inicio": "2021-06",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Automação de 600 casos de teste com Cypress.",
+          "Elaboração de roteiros de avaliação para respostas de chatbot com IA.",
+          "Integração dos testes à esteira de CI."
+        ]
+      },
+      {
+        "cargo": "Analista de Testes Júnior",
+        "empresa": "Software Pará Ltda.",
+        "periodo": "01/2019 a 05/2021",
+        "periodo_normalizado": {
+          "inicio": "2019-01",
+          "fim": "2021-05"
+        },
+        "atividades": [
+          "Testes funcionais de sistemas de gestão pública."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade Federal do Pará (UFPA)",
+        "periodo": "2014 - 2018",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2018"
+        }
+      }
+    ],
+    "competencias": {
+      "Automação": "Cypress, Selenium, Playwright, Postman",
+      "Linguagens": "JavaScript, Python (básico)",
+      "Processos": "BDD, Gherkin, testes de regressão, Jira"
+    },
+    "certificacoes": [
+      "CTFL - Certified Tester Foundation Level (ISTQB, 2020)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Suíte de avaliação de chatbot",
+        "descricao": "300 perguntas de referência com critérios de aprovação."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 6,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "layout simples de coluna única (caso fácil)"
+      ]
+    }
+  },
+  {
+    "id": "31",
+    "arquivo": "31_ricardo_antunes_bastos.pdf",
+    "formato": "pdf",
+    "layout": "europass (green)",
+    "nome": "Ricardo Antunes Bastos",
+    "titulo": "Engenheiro Civil | Pós-graduado em Ciência de Dados",
+    "cidade": "Vitória - ES",
+    "telefone": "(27) 99871-0356",
+    "email": "ricardo.bastos@exemplo.com",
+    "link": null,
+    "dados_pessoais": {
+      "Nacionalidade": "Brasileiro",
+      "Data de nascimento": "21/11/1986",
+      "Registro profissional": "CREA-ES (número fictício)"
+    },
+    "objetivo": null,
+    "resumo": "Engenheiro civil com 10 anos de experiência em planejamento e controle de obras. Concluí pós-graduação em ciência de dados e aplico modelos de previsão de prazos e custos em projetos de construção. Busco migrar para a área de dados e IA.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de Planejamento",
+        "empresa": "Construtora Capixaba S.A.",
+        "periodo": "2018 – atual",
+        "periodo_normalizado": {
+          "inicio": "2018",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Planejamento de obras residenciais com orçamento de até R$ 80 milhões.",
+          "Modelo de previsão de atrasos de obras com gradient boosting.",
+          "Painéis de acompanhamento físico-financeiro em Power BI."
+        ]
+      },
+      {
+        "cargo": "Engenheiro Civil",
+        "empresa": "Engenharia Moxuara Ltda.",
+        "periodo": "2014 – 2018",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2018"
+        },
+        "atividades": [
+          "Acompanhamento de execução de obras de infraestrutura urbana."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pós-graduação em Ciência de Dados",
+        "instituicao": "Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio Digital)",
+        "periodo": "2022 – 2023",
+        "periodo_normalizado": {
+          "inicio": "2022",
+          "fim": "2023"
+        }
+      },
+      {
+        "curso": "Bacharelado em Engenharia Civil",
+        "instituicao": "Universidade Federal do Espírito Santo (UFES)",
+        "periodo": "2008 – 2013",
+        "periodo_normalizado": {
+          "inicio": "2008",
+          "fim": "2013"
+        }
+      }
+    ],
+    "competencias": {
+      "Dados": "Python, Pandas, scikit-learn, SQL",
+      "Engenharia": "Planejamento de obras, orçamento, BIM",
+      "Ferramentas": "MS Project, Power BI, AutoCAD"
+    },
+    "certificacoes": [],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Previsão de atrasos de obras",
+        "descricao": "Modelo com 120 variáveis de cronograma e clima, erro médio de 9 dias."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno (transição)",
+      "anos_experiencia_aprox": 10,
+      "maior_formacao_concluida": "Especialização/MBA",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "rótulos de seção e períodos em coluna separada à esquerda",
+        "idiomas em tabela"
+      ]
+    }
+  },
+  {
+    "id": "32",
+    "arquivo": "32_sabrina_lopes_carvalho.pdf",
+    "formato": "pdf",
+    "layout": "years (p2)",
+    "nome": "Sabrina Lopes Carvalho",
+    "titulo": "Engenheira de IA Sênior | Document Intelligence",
+    "cidade": "Brasília - DF",
+    "telefone": "(61) 98426-1190",
+    "email": "sabrina.carvalho@exemplo.com",
+    "link": "linkedin.com/in/sabrina-carvalho-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheira de IA com 9 anos de experiência, especializada em processamento inteligente de documentos. Projeto e coloco em produção pipelines que combinam OCR, modelos de layout e LLMs para extrair dados estruturados de PDFs, DOCX e imagens, com métricas de qualidade e revisão humana.",
+    "experiencias": [
+      {
+        "cargo": "Engenheira de IA Sênior",
+        "empresa": "GovData Soluções Públicas",
+        "periodo": "01/2022 – atual",
+        "periodo_normalizado": {
+          "inicio": "2022-01",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Plataforma de extração de dados de processos administrativos com 1,2 milhão de páginas por mês.",
+          "Combinação de modelos de layout e LLMs com acurácia de 95% nos campos críticos.",
+          "Fluxo de revisão humana para casos de baixa confiança."
+        ]
+      },
+      {
+        "cargo": "Cientista de Dados Pleno",
+        "empresa": "Cartório Digital Brasil",
+        "periodo": "03/2018 – 12/2021",
+        "periodo_normalizado": {
+          "inicio": "2018-03",
+          "fim": "2021-12"
+        },
+        "atividades": [
+          "Classificação automática de tipos de documentos com 40 categorias.",
+          "Extração de dados de certidões escaneadas."
+        ]
+      },
+      {
+        "cargo": "Analista de Dados",
+        "empresa": "Ministério Fictício de Planejamento (terceirizada)",
+        "periodo": "02/2016 – 02/2018",
+        "periodo_normalizado": {
+          "inicio": "2016-02",
+          "fim": "2018-02"
+        },
+        "atividades": [
+          "Análise de bases públicas e automação de relatórios."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Informática",
+        "instituicao": "Universidade de Brasília (UnB)",
+        "periodo": "2016 – 2018",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2018"
+        }
+      },
+      {
+        "curso": "Bacharelado em Engenharia de Computação",
+        "instituicao": "Universidade de Brasília (UnB)",
+        "periodo": "2010 – 2015",
+        "periodo_normalizado": {
+          "inicio": "2010",
+          "fim": "2015"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, SQL, TypeScript",
+      "Document AI": "LayoutLM, Docling, PyMuPDF, Azure Document Intelligence, Tesseract",
+      "LLMs": "Claude API, OpenAI API, saídas estruturadas, avaliação, RAG",
+      "Engenharia": "FastAPI, Docker, Azure, Airflow, MLflow"
+    },
+    "certificacoes": [
+      "Microsoft Certified: Azure AI Engineer Associate (2023)"
+    ],
+    "cursos": [
+      "Building Systems with LLMs (curso livre, 2024)"
+    ],
+    "idiomas": [
+      "Inglês: fluente"
+    ],
+    "projetos": [
+      {
+        "titulo": "Extrator de processos administrativos",
+        "descricao": "Pipeline de OCR, layout e LLM com rastreabilidade do trecho de origem."
+      },
+      {
+        "titulo": "Triagem de currículos para concursos",
+        "descricao": "Extração de formação e experiência de currículos em PDF para análise de títulos."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 9,
+      "maior_formacao_concluida": "Mestrado",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "ano de início em destaque separado do período completo",
+        "competências em faixa horizontal"
+      ]
+    }
+  },
+  {
+    "id": "33",
+    "arquivo": "33_henrique_duarte_bezerra.docx",
+    "formato": "docx",
+    "layout": "bars (navy)",
+    "nome": "Henrique Duarte Bezerra",
+    "titulo": "Economista | Cientista de Dados em Finanças",
+    "cidade": "Rio de Janeiro - RJ",
+    "telefone": "(21) 98310-6627",
+    "email": "henrique.bezerra@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Economista com mestrado e 6 anos de experiência em modelagem quantitativa no mercado financeiro. Desenvolvo modelos de risco de crédito e uso NLP para análise de relatórios e comunicados de empresas.",
+    "experiencias": [
+      {
+        "cargo": "Cientista de Dados Pleno",
+        "empresa": "Gestora Pão de Açúcar Investimentos",
+        "periodo": "2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Modelo de análise de sentimento de comunicados de empresas listadas.",
+          "Sumarização de relatórios trimestrais com LLMs para os analistas.",
+          "Indicadores de risco para carteira de crédito privado."
+        ]
+      },
+      {
+        "cargo": "Analista de Risco",
+        "empresa": "Banco Fluminense de Investimentos",
+        "periodo": "2019 - 2022",
+        "periodo_normalizado": {
+          "inicio": "2019",
+          "fim": "2022"
+        },
+        "atividades": [
+          "Modelos de probabilidade de inadimplência e testes de estresse."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Economia",
+        "instituicao": "Fundação Getulio Vargas (FGV EPGE)",
+        "periodo": "2017 - 2019",
+        "periodo_normalizado": {
+          "inicio": "2017",
+          "fim": "2019"
+        }
+      },
+      {
+        "curso": "Bacharelado em Ciências Econômicas",
+        "instituicao": "Universidade Federal do Rio de Janeiro (UFRJ)",
+        "periodo": "2012 - 2016",
+        "periodo_normalizado": {
+          "inicio": "2012",
+          "fim": "2016"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, R, SQL",
+      "Modelagem": "Econometria, séries temporais, risco de crédito, XGBoost",
+      "NLP": "Análise de sentimento, embeddings, sumarização com LLMs",
+      "Ferramentas": "Git, Airflow, AWS"
+    },
+    "certificacoes": [
+      "CFA Level II (2021)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: fluente"
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitor de comunicados",
+        "descricao": "Leitura automática de fatos relevantes com classificação de impacto."
+      },
+      {
+        "titulo": "Sumarizador de relatórios",
+        "descricao": "Resumos estruturados de demonstrações financeiras."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 6,
+      "maior_formacao_concluida": "Mestrado",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "títulos de seção como faixas sombreadas",
+        "competências e certificações em tabelas DOCX"
+      ]
+    }
+  },
+  {
+    "id": "34",
+    "arquivo": "34_tatiane_ferreira_gomes.pdf",
+    "formato": "pdf",
+    "layout": "teal (p3)",
+    "nome": "Tatiane Ferreira Gomes",
+    "titulo": "Desenvolvedora Mobile | Flutter e Kotlin",
+    "cidade": "Goiânia - GO",
+    "telefone": "(62) 99258-3304",
+    "email": "tatiane.gomes@exemplo.com",
+    "link": "github.com/tatigomes-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Desenvolvedora mobile com 5 anos de experiência em aplicativos Android e multiplataforma. Experiência com integração de recursos de IA embarcada, como leitura de documentos pela câmera.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedora Mobile Pleno",
+        "empresa": "Cerrado Apps",
+        "periodo": "08/2022 - atual",
+        "periodo_normalizado": {
+          "inicio": "2022-08",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Aplicativo de abertura de conta com leitura de documentos pelo ML Kit.",
+          "Publicação de 3 aplicativos com mais de 200 mil downloads.",
+          "Redução de 40% no tempo de inicialização do app principal."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedora Android Júnior",
+        "empresa": "Goiás Sistemas",
+        "periodo": "03/2020 - 07/2022",
+        "periodo_normalizado": {
+          "inicio": "2020-03",
+          "fim": "2022-07"
+        },
+        "atividades": [
+          "Manutenção de aplicativos de força de vendas em Kotlin."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Software",
+        "instituicao": "Universidade Federal de Goiás (UFG)",
+        "periodo": "2016 - 2020",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2020"
+        }
+      }
+    ],
+    "competencias": {
+      "Mobile": "Flutter, Dart, Kotlin, Jetpack Compose",
+      "Integrações": "Firebase, REST, ML Kit",
+      "Outros": "Git, CI/CD com Codemagic, testes de widget"
+    },
+    "certificacoes": [
+      "Google Associate Android Developer (2021)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "Captura de documentos",
+        "descricao": "Recorte e leitura de RG e CNH no celular antes do envio ao servidor."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 5,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "barra lateral com contato e competências separada do corpo",
+        "competências em etiquetas"
+      ]
+    }
+  },
+  {
+    "id": "35",
+    "arquivo": "35_luciana_aparecida_rocha.pdf",
+    "formato": "pdf",
+    "layout": "magazine (p2)",
+    "nome": "Luciana Aparecida Rocha",
+    "titulo": "Técnica em Enfermagem | Unidade de Terapia Intensiva",
+    "cidade": "Ribeirão Preto - SP",
+    "telefone": "(16) 98872-4419",
+    "email": "luciana.rocha@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Técnica em enfermagem com 11 anos de experiência em ambiente hospitalar, sendo 7 em unidade de terapia intensiva adulto. Atuação em cuidados intensivos, administração de medicamentos, controle de sinais vitais e apoio à equipe multiprofissional.",
+    "experiencias": [
+      {
+        "cargo": "Técnica em Enfermagem - UTI Adulto",
+        "empresa": "Hospital Santa Clara de Ribeirão",
+        "periodo": "2018 – atual",
+        "periodo_normalizado": {
+          "inicio": "2018",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Assistência a pacientes críticos em UTI de 20 leitos.",
+          "Participação em protocolos de prevenção de lesões por pressão.",
+          "Treinamento de novos técnicos admitidos."
+        ]
+      },
+      {
+        "cargo": "Técnica em Enfermagem - Clínica Médica",
+        "empresa": "Santa Casa de Sertãozinho",
+        "periodo": "2014 – 2018",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2018"
+        },
+        "atividades": [
+          "Cuidados de enfermagem em internação clínica.",
+          "Controle de sinais vitais e balanço hídrico."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Curso Técnico em Enfermagem",
+        "instituicao": "Escola Técnica Estadual (ETEC) José Martimiano da Silva",
+        "periodo": "2012 – 2013",
+        "periodo_normalizado": {
+          "inicio": "2012",
+          "fim": "2013"
+        }
+      }
+    ],
+    "competencias": {
+      "Assistência": "Cuidados intensivos, administração de medicamentos, curativos",
+      "Procedimentos": "Monitorização, coleta de exames, preparo de leito",
+      "Gestão": "Registro em prontuário eletrônico, controle de materiais"
+    },
+    "certificacoes": [
+      "Suporte Básico de Vida - BLS (2024)",
+      "Registro COREN-SP (número fictício)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Espanhol: básico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Comissão de prevenção de quedas",
+        "descricao": "Membro da comissão hospitalar entre 2021 e 2023."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 11,
+      "maior_formacao_concluida": "Curso técnico",
+      "aderencia_vaga": "fora_de_contexto",
+      "fora_de_contexto": true,
+      "dificuldades_extracao": [
+        "nome e resumo em blocos lado a lado",
+        "corpo em duas colunas com divisória"
+      ]
+    }
+  },
+  {
+    "id": "36",
+    "arquivo": "36_vitor_hugo_fernandes.pdf",
+    "formato": "pdf",
+    "layout": "dev",
+    "nome": "Vitor Hugo Fernandes",
+    "titulo": "Engenheiro DevOps / SRE",
+    "cidade": "Belo Horizonte - MG",
+    "telefone": "(31) 99640-2251",
+    "email": "vitor.fernandes@exemplo.com",
+    "link": "github.com/vhfernandes-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheiro de confiabilidade com 9 anos de experiência em infraestrutura em nuvem, automação e observabilidade. Nos últimos 2 anos, apoiei times de dados na implantação de modelos e serviços de LLM com GPU.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro SRE Sênior",
+        "empresa": "Minas Commerce",
+        "periodo": "11/2021 - atual",
+        "periodo_normalizado": {
+          "inicio": "2021-11",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Clusters Kubernetes com nós de GPU para inferência de modelos de linguagem.",
+          "SLOs e alertas para 60 serviços críticos.",
+          "Redução de 28% do custo mensal de nuvem."
+        ]
+      },
+      {
+        "cargo": "Engenheiro DevOps",
+        "empresa": "Savassi Tecnologia",
+        "periodo": "04/2017 - 10/2021",
+        "periodo_normalizado": {
+          "inicio": "2017-04",
+          "fim": "2021-10"
+        },
+        "atividades": [
+          "Infraestrutura como código com Terraform.",
+          "Esteiras de entrega contínua para 30 aplicações."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Pontifícia Universidade Católica de Minas Gerais (PUC Minas)",
+        "periodo": "2012 - 2016",
+        "periodo_normalizado": {
+          "inicio": "2012",
+          "fim": "2016"
+        }
+      }
+    ],
+    "competencias": {
+      "Cloud": "AWS, GCP",
+      "Infra": "Kubernetes, Terraform, Helm, ArgoCD",
+      "Observabilidade": "Prometheus, Grafana, OpenTelemetry, Datadog",
+      "Linguagens": "Go, Python, Bash"
+    },
+    "certificacoes": [
+      "AWS Certified DevOps Engineer - Professional (2022)",
+      "Certified Kubernetes Administrator - CKA (2020)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de inferência com GPU",
+        "descricao": "Autoescalonamento de réplicas por fila de requisições."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 9,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "competências escritas como código",
+        "rótulos de contato em inglês abreviado (tel, git)"
+      ]
+    }
+  },
+  {
+    "id": "37",
+    "arquivo": "37_daniela_mitsue_okamoto.pdf",
+    "formato": "pdf",
+    "layout": "plex (p3)",
+    "nome": "Daniela Mitsue Okamoto",
+    "titulo": "Estatística Sênior | Bioestatística e Modelagem",
+    "cidade": "Ribeirão Preto - SP",
+    "telefone": "(16) 99701-3386",
+    "email": "daniela.okamoto@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Estatística com doutorado e 12 anos de experiência em ensaios clínicos e estudos epidemiológicos. Experiência com modelos estatísticos e de aprendizado de máquina para dados de saúde, incluindo análise de texto de prontuários.",
+    "experiencias": [
+      {
+        "cargo": "Bioestatística Sênior",
+        "empresa": "Centro de Pesquisa Clínica Paulista",
+        "periodo": "2016 - atual",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Planejamento estatístico e análise de 25 ensaios clínicos.",
+          "Modelo de previsão de eventos adversos com dados estruturados e texto.",
+          "Revisão de protocolos para comitês de ética."
+        ]
+      },
+      {
+        "cargo": "Estatística",
+        "empresa": "Instituto de Saúde Coletiva",
+        "periodo": "2013 - 2016",
+        "periodo_normalizado": {
+          "inicio": "2013",
+          "fim": "2016"
+        },
+        "atividades": [
+          "Análises de estudos epidemiológicos de base populacional."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Doutorado em Estatística",
+        "instituicao": "Universidade de São Paulo (IME-USP)",
+        "periodo": "2009 - 2013",
+        "periodo_normalizado": {
+          "inicio": "2009",
+          "fim": "2013"
+        }
+      },
+      {
+        "curso": "Bacharelado em Estatística",
+        "instituicao": "Universidade Estadual de Campinas (UNICAMP)",
+        "periodo": "2004 - 2008",
+        "periodo_normalizado": {
+          "inicio": "2004",
+          "fim": "2008"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "R, Python, SAS",
+      "Métodos": "Modelos mistos, análise de sobrevivência, inferência causal, ML",
+      "Dados": "REDCap, SQL, dados clínicos",
+      "Texto": "Classificação de texto clínico (básico)"
+    },
+    "certificacoes": [],
+    "cursos": [
+      "Causal Inference (curso livre, 2021)"
+    ],
+    "idiomas": [
+      "Inglês: fluente",
+      "Japonês: básico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Detecção de eventos adversos",
+        "descricao": "Combinação de variáveis clínicas e texto livre com regressão penalizada."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 12,
+      "maior_formacao_concluida": "Doutorado",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "cards em duas colunas",
+        "competências em etiquetas"
+      ]
+    }
+  },
+  {
+    "id": "38",
+    "arquivo": "38_gustavo_leal_pacheco.docx",
+    "formato": "docx",
+    "layout": "cobalt",
+    "nome": "Gustavo Leal Pacheco",
+    "titulo": "Engenheiro de Software de IA | Agentes e LLMs",
+    "cidade": "Uberlândia - MG",
+    "telefone": "(34) 99128-7745",
+    "email": "gustavo.pacheco@exemplo.com",
+    "link": "github.com/glpacheco-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheiro de software com 5 anos de experiência, sendo 2 dedicados a aplicações com LLMs. Desenvolvo agentes, pipelines de extração estruturada e suítes de avaliação, com foco em confiabilidade e custo.",
+    "experiencias": [
+      {
+        "cargo": "Engenheiro de Software de IA",
+        "empresa": "Triângulo Tech",
+        "periodo": "03/2023 - atual",
+        "periodo_normalizado": {
+          "inicio": "2023-03",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Agente de análise de contratos com extração de 25 campos e verificação de consistência.",
+          "Suíte de avaliação com 800 casos executada a cada alteração de prompt.",
+          "Redução de 45% no custo de tokens com roteamento entre modelos."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedor Back-end",
+        "empresa": "Uberlândia Softwares",
+        "periodo": "01/2020 - 02/2023",
+        "periodo_normalizado": {
+          "inicio": "2020-01",
+          "fim": "2023-02"
+        },
+        "atividades": [
+          "APIs em Python e Node.js para sistema de logística."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade Federal de Uberlândia (UFU)",
+        "periodo": "2015 - 2019",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2019"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, TypeScript",
+      "IA": "LangGraph, LlamaIndex, Pydantic, Claude API, OpenAI API",
+      "Dados": "PostgreSQL, pgvector, Redis",
+      "Infra": "Docker, AWS (ECS, Bedrock), GitHub Actions"
+    },
+    "certificacoes": [
+      "AWS Certified Machine Learning Engineer - Associate (2024)"
+    ],
+    "cursos": [
+      "AI Agents in LangGraph (DeepLearning.AI, 2024)"
+    ],
+    "idiomas": [
+      "Inglês: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "Análise de contratos",
+        "descricao": "Agente com ferramentas de busca e validação de cláusulas."
+      },
+      {
+        "titulo": "Extrator de currículos",
+        "descricao": "Projeto pessoal que converte currículos em PDF e DOCX para JSON."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 5,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX",
+        "competências em grade de células",
+        "período exibido como 'início' + 'até fim'"
+      ]
+    }
+  },
+  {
+    "id": "39",
+    "arquivo": "39_jessica_nunes_prado.docx",
+    "formato": "docx",
+    "layout": "rightbar (p2)",
+    "nome": "Jéssica Nunes Prado",
+    "titulo": "Analista de Dados Pleno",
+    "cidade": "Campo Grande - MS",
+    "telefone": "(67) 99307-6612",
+    "email": "jessica.prado@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Analista de dados com 4 anos de experiência em análise exploratória, SQL e automações em Python. Participei de projeto piloto de classificação de documentos com modelos de linguagem.",
+    "experiencias": [
+      {
+        "cargo": "Analista de Dados Pleno",
+        "empresa": "Agropecuária Pantanal S.A.",
+        "periodo": "2023 - atual",
+        "periodo_normalizado": {
+          "inicio": "2023",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Automação de relatórios de produção em Python.",
+          "Piloto de classificação de notas de compra com API de LLM.",
+          "Painéis de indicadores para diretoria."
+        ]
+      },
+      {
+        "cargo": "Analista de Dados Júnior",
+        "empresa": "Prefeitura Fictícia de Campo Grande (terceirizada)",
+        "periodo": "2021 - 2023",
+        "periodo_normalizado": {
+          "inicio": "2021",
+          "fim": "2023"
+        },
+        "atividades": [
+          "Tratamento de bases de atendimento ao cidadão."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Matemática",
+        "instituicao": "Universidade Federal de Mato Grosso do Sul (UFMS)",
+        "periodo": "2016 - 2020",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2020"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, SQL",
+      "Análise": "Pandas, estatística descritiva, testes de hipótese",
+      "Visualização": "Power BI, Looker Studio",
+      "Em desenvolvimento": "scikit-learn, APIs de LLM"
+    },
+    "certificacoes": [
+      "Google Data Analytics Professional Certificate (2022)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Classificação de notas de compra",
+        "descricao": "Piloto que categorizou 15 mil notas com 88% de concordância com a área fiscal."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 4,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "conteúdo dentro de tabelas DOCX",
+        "coluna lateral à direita"
+      ]
+    }
+  },
+  {
+    "id": "40",
+    "arquivo": "40_leonardo_batista_queiroz.pdf",
+    "formato": "pdf",
+    "layout": "ats (green)",
+    "nome": "Leonardo Batista Queiroz",
+    "titulo": "Bacharel em Ciência da Computação | Desenvolvedor de IA Júnior",
+    "cidade": "Fortaleza - CE",
+    "telefone": "(85) 99433-0917",
+    "email": "leonardo.queiroz@exemplo.com",
+    "link": "github.com/lbqueiroz-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Recém-formado em Ciência da Computação, com trabalho de conclusão sobre extração de informações de documentos com LLMs. Um ano de experiência como desenvolvedor júnior em projetos de IA generativa.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor de IA Júnior",
+        "empresa": "Iracema Labs",
+        "periodo": "jan/2025 – atual",
+        "periodo_normalizado": {
+          "inicio": "2025-01",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenvolvimento de protótipos de chatbots com RAG para clientes.",
+          "Scripts de extração de texto de PDFs e limpeza de dados.",
+          "Testes de comparação entre modelos de linguagem."
+        ]
+      },
+      {
+        "cargo": "Bolsista de Iniciação Científica",
+        "empresa": "Universidade Federal do Ceará (UFC)",
+        "periodo": "mar/2023 – dez/2024",
+        "periodo_normalizado": {
+          "inicio": "2023-03",
+          "fim": "2024-12"
+        },
+        "atividades": [
+          "Pesquisa em classificação de textos jurídicos."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade Federal do Ceará (UFC)",
+        "periodo": "2020 – 2024",
+        "periodo_normalizado": {
+          "inicio": "2020",
+          "fim": "2024"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, Java, SQL",
+      "IA": "Hugging Face, LangChain, OpenAI API, PyMuPDF",
+      "Ferramentas": "Git, Docker, FastAPI"
+    },
+    "certificacoes": [],
+    "cursos": [
+      "Hugging Face NLP Course (2023)"
+    ],
+    "idiomas": [
+      "Inglês: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "TCC: Extração de dados de editais com LLMs",
+        "descricao": "Comparação de 4 modelos na extração de 12 campos de editais em PDF."
+      },
+      {
+        "titulo": "Busca em ementas",
+        "descricao": "Busca semântica sobre 20 mil ementas de jurisprudência."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Júnior",
+      "anos_experiencia_aprox": 1,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "layout simples de coluna única (caso fácil)"
+      ]
+    }
+  },
+  {
+    "id": "41",
+    "arquivo": "41_carolina_mendes_siqueira.pdf",
+    "formato": "pdf",
+    "layout": "exec (p3)",
+    "nome": "Carolina Mendes Siqueira",
+    "titulo": "Gerente de Engenharia de Software | Dados e IA",
+    "cidade": "São Paulo - SP",
+    "telefone": "(11) 98066-2943",
+    "email": "carolina.siqueira@exemplo.com",
+    "link": "linkedin.com/in/carolina-siqueira-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Gestora de engenharia com 16 anos de experiência, sendo 8 em liderança de times. Responsável por áreas de plataforma de dados e aplicações de IA, com forte atuação em processos de entrega, contratação e desenvolvimento de pessoas.",
+    "experiencias": [
+      {
+        "cargo": "Gerente de Engenharia",
+        "empresa": "Varejo Nacional Digital",
+        "periodo": "2020 - atual",
+        "periodo_normalizado": {
+          "inicio": "2020",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Gestão de 4 times (30 pessoas) de plataforma de dados e IA.",
+          "Entrega de assistente de compras com LLM para 2 milhões de clientes.",
+          "Implantação de práticas de avaliação e governança de modelos."
+        ]
+      },
+      {
+        "cargo": "Coordenadora de Desenvolvimento",
+        "empresa": "Seguradora Paulista",
+        "periodo": "2016 - 2020",
+        "periodo_normalizado": {
+          "inicio": "2016",
+          "fim": "2020"
+        },
+        "atividades": [
+          "Coordenação de 2 times de sistemas de sinistros."
+        ]
+      },
+      {
+        "cargo": "Engenheira de Software",
+        "empresa": "Consultoria Global TI",
+        "periodo": "2009 - 2016",
+        "periodo_normalizado": {
+          "inicio": "2009",
+          "fim": "2016"
+        },
+        "atividades": [
+          "Desenvolvimento em Java para clientes financeiros."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "MBA em Gestão de Tecnologia",
+        "instituicao": "Insper",
+        "periodo": "2017 - 2018",
+        "periodo_normalizado": {
+          "inicio": "2017",
+          "fim": "2018"
+        }
+      },
+      {
+        "curso": "Bacharelado em Engenharia da Computação",
+        "instituicao": "Escola Politécnica da USP (Poli-USP)",
+        "periodo": "2004 - 2008",
+        "periodo_normalizado": {
+          "inicio": "2004",
+          "fim": "2008"
+        }
+      }
+    ],
+    "competencias": {
+      "Liderança": "Gestão de times, contratação, planejamento, OKRs",
+      "Técnico": "Arquitetura de software, Python, Java, dados",
+      "IA": "Gestão de projetos de ML e LLMs, governança"
+    },
+    "certificacoes": [
+      "Certified ScrumMaster (2015)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: fluente",
+      "Espanhol: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Assistente de compras",
+        "descricao": "Recomendação conversacional com busca de produtos e políticas de segurança."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Gestão",
+      "anos_experiencia_aprox": 16,
+      "maior_formacao_concluida": "Especialização/MBA",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "texto com espaçamento entre letras (nome e empresas podem sair como 'F E R N A N DA')",
+        "competências em etiquetas dentro de quadros"
+      ]
+    }
+  },
+  {
+    "id": "42",
+    "arquivo": "42_fabio_junior_assis.docx",
+    "formato": "docx",
+    "layout": "plainbr",
+    "nome": "Fábio Júnior Assis",
+    "titulo": "Desenvolvedor PHP | Laravel",
+    "cidade": "Teresina - PI",
+    "telefone": "(86) 99812-5530",
+    "email": "fabio.assis@exemplo.com",
+    "link": null,
+    "dados_pessoais": {
+      "Nacionalidade": "Brasileiro",
+      "Estado civil": "Solteiro",
+      "Idade": "31 anos"
+    },
+    "objetivo": "Atuar como desenvolvedor em equipe de inteligência artificial.",
+    "resumo": "Desenvolvedor web com 7 anos de experiência em PHP e Laravel, atuando no desenvolvimento de sistemas de gestão e lojas virtuais. Conhecimentos básicos em Python.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor PHP Pleno",
+        "empresa": "Piauí Web Sistemas",
+        "periodo": "Janeiro de 2021 até o momento",
+        "periodo_normalizado": {
+          "inicio": "2021-01",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Desenvolvimento de sistemas de gestão para clínicas e escolas.",
+          "Integração com gateways de pagamento."
+        ]
+      },
+      {
+        "cargo": "Desenvolvedor Web Júnior",
+        "empresa": "Agência Parnaíba",
+        "periodo": "Março de 2018 a Dezembro de 2020",
+        "periodo_normalizado": {
+          "inicio": "2018-03",
+          "fim": "2020-12"
+        },
+        "atividades": [
+          "Criação de lojas virtuais e sites institucionais."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Estadual do Piauí (UESPI)",
+        "periodo": "2013 - 2017",
+        "periodo_normalizado": {
+          "inicio": "2013",
+          "fim": "2017"
+        }
+      }
+    ],
+    "competencias": {
+      "Back-end": "PHP, Laravel, MySQL",
+      "Front-end": "HTML, CSS, JavaScript, Vue.js",
+      "Outros": "Git, Linux, Python (básico)"
+    },
+    "certificacoes": [],
+    "cursos": [
+      "Laravel Avançado (curso online, 2022)"
+    ],
+    "idiomas": [
+      "Inglês: básico"
+    ],
+    "projetos": [],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 7,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "baixa",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "modelo tradicional brasileiro com rótulos (Empresa/Cargo/Período)",
+        "datas por extenso",
+        "dados pessoais (estado civil, idade)"
+      ]
+    }
+  },
+  {
+    "id": "43",
+    "arquivo": "43_amanda_rodrigues_pires.pdf",
+    "formato": "pdf",
+    "layout": "swiss (p3)",
+    "nome": "Amanda Rodrigues Pires",
+    "titulo": "Engenheira de Dados e Machine Learning",
+    "cidade": "Joinville - SC",
+    "telefone": "(47) 98815-4402",
+    "email": "amanda.pires@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Engenheira com 4 anos de experiência em pipelines de dados e implantação de modelos de machine learning. Experiência inicial com embeddings e busca semântica.",
+    "experiencias": [
+      {
+        "cargo": "Engenheira de Dados e ML",
+        "empresa": "Indústria Norte Catarinense",
+        "periodo": "05/2023 – atual",
+        "periodo_normalizado": {
+          "inicio": "2023-05",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Pipelines de dados de sensores para modelos de manutenção preditiva.",
+          "Busca semântica em manuais técnicos com embeddings.",
+          "Registro e versionamento de modelos com MLflow."
+        ]
+      },
+      {
+        "cargo": "Engenheira de Dados Júnior",
+        "empresa": "Joinville Logística",
+        "periodo": "02/2021 – 04/2023",
+        "periodo_normalizado": {
+          "inicio": "2021-02",
+          "fim": "2023-04"
+        },
+        "atividades": [
+          "Pipelines em Airflow e modelagem em dbt."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Engenharia de Controle e Automação",
+        "instituicao": "Universidade Federal de Santa Catarina (UFSC)",
+        "periodo": "2015 – 2020",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2020"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, SQL",
+      "Dados": "Airflow, dbt, BigQuery, Spark",
+      "ML": "scikit-learn, MLflow, sentence-transformers",
+      "Infra": "GCP, Docker"
+    },
+    "certificacoes": [
+      "Google Cloud Professional Data Engineer (2023)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: avançado",
+      "Alemão: básico"
+    ],
+    "projetos": [
+      {
+        "titulo": "Busca em manuais técnicos",
+        "descricao": "Consulta em linguagem natural sobre 3 mil manuais de equipamentos."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 4,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "grade com rótulos de seção numerados na margem esquerda",
+        "competências em três colunas"
+      ]
+    }
+  },
+  {
+    "id": "44",
+    "arquivo": "44_otavio_lacerda_brandao.docx",
+    "formato": "docx",
+    "layout": "bars (green)",
+    "nome": "Otávio Lacerda Brandão",
+    "titulo": "Desenvolvedor de RPA | Automação Inteligente",
+    "cidade": "Salvador - BA",
+    "telefone": "(71) 99273-8851",
+    "email": "otavio.brandao@exemplo.com",
+    "link": null,
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Desenvolvedor de automação com 6 anos de experiência em RPA e processamento de documentos. Experiência com UiPath Document Understanding e integração de modelos de linguagem em fluxos de automação.",
+    "experiencias": [
+      {
+        "cargo": "Desenvolvedor RPA Pleno",
+        "empresa": "Bahia Serviços Compartilhados",
+        "periodo": "2021 - atual",
+        "periodo_normalizado": {
+          "inicio": "2021",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Automação de 35 processos financeiros e de RH.",
+          "Extração de dados de notas fiscais e boletos com Document Understanding.",
+          "Integração de LLM para classificação de e-mails de fornecedores."
+        ]
+      },
+      {
+        "cargo": "Analista de Automação",
+        "empresa": "Contabilidade Soteropolitana",
+        "periodo": "2019 - 2021",
+        "periodo_normalizado": {
+          "inicio": "2019",
+          "fim": "2021"
+        },
+        "atividades": [
+          "Robôs para conciliação bancária e emissão de guias."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Sistemas de Informação",
+        "instituicao": "Universidade Salvador (UNIFACS)",
+        "periodo": "2014 - 2018",
+        "periodo_normalizado": {
+          "inicio": "2014",
+          "fim": "2018"
+        }
+      }
+    ],
+    "competencias": {
+      "RPA": "UiPath, Automation Anywhere, Power Automate",
+      "Documentos": "Document Understanding, OCR, regex",
+      "Programação": "Python, C#, SQL",
+      "IA": "APIs de LLM, classificação de documentos"
+    },
+    "certificacoes": [
+      "UiPath Certified Professional - Advanced RPA Developer (2022)"
+    ],
+    "cursos": [],
+    "idiomas": [
+      "Inglês: intermediário"
+    ],
+    "projetos": [
+      {
+        "titulo": "Contas a pagar automatizado",
+        "descricao": "Leitura de 8 mil documentos por mês com revisão de exceções."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "M",
+      "senioridade": "Pleno",
+      "anos_experiencia_aprox": 6,
+      "maior_formacao_concluida": "Graduação (bacharelado/licenciatura)",
+      "aderencia_vaga": "média",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "títulos de seção como faixas sombreadas",
+        "competências e certificações em tabelas DOCX"
+      ]
+    }
+  },
+  {
+    "id": "45",
+    "arquivo": "45_elisa_castro_fonseca.pdf",
+    "formato": "pdf",
+    "layout": "editorial (p3)",
+    "nome": "Elisa Castro Fonseca",
+    "titulo": "Cientista de Dados Sênior | NLP em Saúde",
+    "cidade": "Porto Alegre - RS",
+    "telefone": "(51) 99482-1137",
+    "email": "elisa.fonseca@exemplo.com",
+    "link": "linkedin.com/in/elisa-fonseca-fict",
+    "dados_pessoais": null,
+    "objetivo": null,
+    "resumo": "Cientista de dados com 8 anos de experiência e mestrado em computação, especializada em processamento de linguagem natural para documentos clínicos. Experiência em extração estruturada com LLMs, anonimização de dados conforme a LGPD e avaliação de modelos com especialistas.",
+    "experiencias": [
+      {
+        "cargo": "Cientista de Dados Sênior",
+        "empresa": "Rede Hospitalar Sul",
+        "periodo": "02/2021 - atual",
+        "periodo_normalizado": {
+          "inicio": "2021-02",
+          "fim": "atual"
+        },
+        "atividades": [
+          "Extração de diagnósticos e medicamentos de laudos e evoluções com LLMs.",
+          "Pipeline de anonimização de documentos clínicos em conformidade com a LGPD.",
+          "Avaliação de modelos com painel de médicos especialistas."
+        ]
+      },
+      {
+        "cargo": "Cientista de Dados",
+        "empresa": "HealthTech Gaúcha",
+        "periodo": "03/2017 - 01/2021",
+        "periodo_normalizado": {
+          "inicio": "2017-03",
+          "fim": "2021-01"
+        },
+        "atividades": [
+          "Classificação de textos de prontuários e modelos de risco."
+        ]
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Mestrado em Computação",
+        "instituicao": "Universidade Federal do Rio Grande do Sul (UFRGS)",
+        "periodo": "2015 - 2017",
+        "periodo_normalizado": {
+          "inicio": "2015",
+          "fim": "2017"
+        }
+      },
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)",
+        "periodo": "2010 - 2014",
+        "periodo_normalizado": {
+          "inicio": "2010",
+          "fim": "2014"
+        }
+      }
+    ],
+    "competencias": {
+      "Linguagens": "Python, SQL",
+      "NLP": "Transformers, spaCy, LLMs, extração estruturada",
+      "Privacidade": "Anonimização, LGPD, dados sensíveis",
+      "Engenharia": "Docker, Azure, FastAPI, MLflow"
+    },
+    "certificacoes": [
+      "Microsoft Certified: Azure Data Scientist Associate (2022)"
+    ],
+    "cursos": [
+      "Natural Language Processing with Transformers (curso livre, 2022)"
+    ],
+    "idiomas": [
+      "Inglês: fluente",
+      "Espanhol: avançado"
+    ],
+    "projetos": [
+      {
+        "titulo": "Extração de dados de laudos",
+        "descricao": "Campos clínicos extraídos com F1 de 0,92 e revisão por amostragem."
+      },
+      {
+        "titulo": "Anonimizador clínico",
+        "descricao": "Remoção de nomes, documentos e endereços com recall de 99%."
+      }
+    ],
+    "publicacoes": [],
+    "anotacoes_avaliacao": {
+      "genero": "F",
+      "senioridade": "Sênior",
+      "anos_experiencia_aprox": 8,
+      "maior_formacao_concluida": "Mestrado",
+      "aderencia_vaga": "alta",
+      "fora_de_contexto": false,
+      "dificuldades_extracao": [
+        "layout em duas colunas",
+        "períodos em coluna estreita podem quebrar e perder o hífen na extração"
+      ]
+    }
+  }
+]
